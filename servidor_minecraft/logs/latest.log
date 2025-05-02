@@ -1,46 +1,46 @@
-[02May2025 03:09:10.476] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[02May2025 03:09:10.480] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[02May2025 03:09:11.186] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[02May2025 03:09:11.227] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[02May2025 03:09:11.528] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[02May2025 03:09:11.529] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02May2025 03:09:11.530] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02May2025 03:09:11.531] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02May2025 03:09:11.743] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[02May2025 03:09:11.744] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
-[02May2025 03:09:14.170] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[02May2025 03:09:14.310] [main/ERROR] [mixin/]: Mixin config yuushya.mixins.json does not specify "minVersion" property
-[02May2025 03:09:14.342] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[02May2025 03:09:14.378] [main/WARN] [mixin/]: Reference map 'miniutilities.refmap.json' for miniutilities.mixins.json could not be read. If this is a development environment you can ignore this message
-[02May2025 03:09:14.386] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[02May2025 03:09:14.393] [main/WARN] [mixin/]: Reference map 'lemonlib.refmap.json' for lemonlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[02May2025 03:09:14.534] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 111 options available, 3 override(s) found
-[02May2025 03:09:14.554] [main/WARN] [mixin/]: Reference map 'Mekanism_Extras.refmap.json' for mekanism_extras.mixins.json could not be read. If this is a development environment you can ignore this message
-[02May2025 03:09:14.625] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[02May2025 03:09:16.023] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[02May2025 03:09:22.023] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[02May2025 03:09:22.048] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[02May2025 03:09:22.267] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[02May2025 03:09:22.507] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[02May2025 03:09:22.517] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[02May2025 03:09:22.520] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[02May2025 03:09:22.527] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[02May2025 03:09:22.531] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[02May2025 03:09:22.537] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[02May2025 03:09:22.538] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[02May2025 03:09:22.542] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[02May2025 03:09:22.843] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[02May2025 03:09:22.843] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[02May2025 03:09:23.151] [modloading-worker-0/INFO] [Material Elements/]: Thanks for using Material Elements (https://www.curseforge.com/minecraft/mc-mods/material-elements). I hope you enjoy the mod. :)
-[02May2025 03:09:23.152] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Potions ...
-[02May2025 03:09:23.155] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Blocks ...
-[02May2025 03:09:23.197] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
-[02May2025 03:09:23.206] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
-[02May2025 03:09:23.212] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Items ...
-[02May2025 03:09:23.843] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
-[02May2025 03:09:23.845] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
-[02May2025 03:09:24.336] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[02May2025 03:09:24.340] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: oculus, class net.irisshaders.iris.Iris
+[02May2025 03:10:17.942] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[02May2025 03:10:17.945] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[02May2025 03:10:18.805] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[02May2025 03:10:18.854] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[02May2025 03:10:19.184] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[02May2025 03:10:19.186] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02May2025 03:10:19.187] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02May2025 03:10:19.188] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02May2025 03:10:19.402] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[02May2025 03:10:19.403] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
+[02May2025 03:10:21.923] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02May2025 03:10:22.072] [main/ERROR] [mixin/]: Mixin config yuushya.mixins.json does not specify "minVersion" property
+[02May2025 03:10:22.108] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[02May2025 03:10:22.138] [main/WARN] [mixin/]: Reference map 'miniutilities.refmap.json' for miniutilities.mixins.json could not be read. If this is a development environment you can ignore this message
+[02May2025 03:10:22.145] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[02May2025 03:10:22.152] [main/WARN] [mixin/]: Reference map 'lemonlib.refmap.json' for lemonlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[02May2025 03:10:22.274] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 111 options available, 3 override(s) found
+[02May2025 03:10:22.300] [main/WARN] [mixin/]: Reference map 'Mekanism_Extras.refmap.json' for mekanism_extras.mixins.json could not be read. If this is a development environment you can ignore this message
+[02May2025 03:10:22.368] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[02May2025 03:10:23.814] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02May2025 03:10:29.861] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[02May2025 03:10:29.879] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[02May2025 03:10:30.138] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[02May2025 03:10:30.279] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[02May2025 03:10:30.285] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[02May2025 03:10:30.288] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[02May2025 03:10:30.292] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[02May2025 03:10:30.295] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[02May2025 03:10:30.304] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[02May2025 03:10:30.305] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[02May2025 03:10:30.311] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[02May2025 03:10:30.759] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[02May2025 03:10:30.764] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[02May2025 03:10:31.239] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[02May2025 03:10:31.241] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[02May2025 03:10:31.270] [modloading-worker-0/INFO] [Material Elements/]: Thanks for using Material Elements (https://www.curseforge.com/minecraft/mc-mods/material-elements). I hope you enjoy the mod. :)
+[02May2025 03:10:31.270] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Potions ...
+[02May2025 03:10:31.275] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Blocks ...
+[02May2025 03:10:31.354] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Items ...
+[02May2025 03:10:31.875] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[02May2025 03:10:31.876] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[02May2025 03:10:32.370] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[02May2025 03:10:32.371] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: oculus, class net.irisshaders.iris.Iris
 java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
 	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
 	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
@@ -65,17 +65,17 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/scr
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02May2025 03:09:25.127] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
-[02May2025 03:09:25.135] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
-[02May2025 03:09:25.139] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
-[02May2025 03:09:25.140] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
-[02May2025 03:09:25.325] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[02May2025 03:09:27.313] [modloading-worker-0/INFO] [yuushya/]: Yuushya has been loaded successfully!
-[02May2025 03:09:27.315] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 1 errors found
-[02May2025 03:09:27.372] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID ec389f48-327b-4b25-96f5-a539979e29db
-[02May2025 03:09:27.373] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-05-02_03.09.27-fml.txt
-[02May2025 03:09:27.381] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 0782b2d7-2937-4fae-b5e0-083053b2fa82
-[02May2025 03:09:27.382] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+[02May2025 03:10:33.162] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
+[02May2025 03:10:33.167] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
+[02May2025 03:10:33.168] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
+[02May2025 03:10:33.168] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
+[02May2025 03:10:33.203] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[02May2025 03:10:35.143] [modloading-worker-0/INFO] [yuushya/]: Yuushya has been loaded successfully!
+[02May2025 03:10:35.146] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 1 errors found
+[02May2025 03:10:35.222] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 1f4cf81a-90d5-48c3-8fdf-5b3886f19a19
+[02May2025 03:10:35.222] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-05-02_03.10.35-fml.txt
+[02May2025 03:10:35.233] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID d1210b35-727e-411d-9177-5f309e4c2def
+[02May2025 03:10:35.234] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
 net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
 	Oculus (oculus) has failed to load correctly
 §7java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
