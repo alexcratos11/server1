@@ -1,4 +1,65 @@
 {
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2025-05-02 05:17:34 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-05-02 05:17:34 +0000"
+    },
+    "done": true
+  },
+  "yuushya:recipes/pictor": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 05:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-02 05:17:35 +0000"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-05-02 05:17:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-05-02 05:17:35 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-05-02 05:17:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "maple_woods": "2025-05-02 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-05-02 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "maple_woods": "2025-05-02 05:17:36 +0000",
+      "field": "2025-05-02 05:21:29 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-05-02 05:23:24 +0000"
@@ -11,27 +72,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-05-02 05:17:35 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/food/cooked_egg": {
-    "criteria": {
-      "has_eggs": "2025-05-02 05:17:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-05-02 05:23:24 +0000"
-    },
-    "done": true
-  },
-  "mekanism:root": {
-    "criteria": {
-      "automatic": "2025-05-02 05:17:35 +0000"
     },
     "done": true
   },
@@ -59,21 +102,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2025-05-02 05:17:35 +0000"
-    },
-    "done": true
-  },
   "mysticsbiomes:recipes/transportation/strawberry_boat": {
     "criteria": {
       "in_water": "2025-05-02 05:23:24 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "maple_woods": "2025-05-02 05:17:36 +0000"
     },
     "done": true
   },
@@ -86,12 +117,6 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-05-02 05:23:24 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-05-02 05:17:36 +0000"
     },
     "done": true
   },
@@ -131,22 +156,9 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "maple_woods": "2025-05-02 05:17:36 +0000",
-      "field": "2025-05-02 05:21:29 +0000"
-    },
-    "done": false
-  },
   "mysticsbiomes:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-05-02 05:23:24 +0000"
-    },
-    "done": true
-  },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2025-05-02 05:17:35 +0000"
     },
     "done": true
   },
@@ -216,27 +228,37 @@
     },
     "done": true
   },
-  "ironfurnaces:coal": {
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "rainbowcoal": "2025-05-02 05:17:34 +0000"
+      "in_water": "2025-05-02 05:23:24 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-05-02 05:23:25 +0000"
+      "minecraft:eroded_badlands": "2025-05-02 11:47:27 +0000",
+      "minecraft:badlands": "2025-05-02 11:47:08 +0000",
+      "minecraft:river": "2025-05-02 05:23:25 +0000",
+      "minecraft:dripstone_caves": "2025-05-02 11:47:56 +0000",
+      "minecraft:desert": "2025-05-02 11:49:14 +0000"
     },
     "done": false
   },
-  "yuushya:recipes/pictor": {
+  "create:root": {
     "criteria": {
-      "has_iron_ingot": "2025-05-02 05:17:34 +0000"
+      "0": "2025-05-02 11:41:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "lootr:social": {
     "criteria": {
-      "in_water": "2025-05-02 05:23:24 +0000"
+      "opened_chest": "2025-05-02 11:48:04 +0000"
+    },
+    "done": false
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-05-02 11:48:04 +0000"
     },
     "done": true
   },
