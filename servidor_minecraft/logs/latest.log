@@ -2529,3 +2529,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [02May2025 02:10:56.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Ice and Fire]
 [02May2025 02:12:37.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
 [02May2025 02:12:37.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[02May2025 02:19:24.780] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:49155] logged in with entity id 920 at (-18.571196532872158, 64.0, 31.352180669761882)
+[02May2025 02:19:24.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[02May2025 02:19:24.859] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[02May2025 02:21:57.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
+[02May2025 02:21:57.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
