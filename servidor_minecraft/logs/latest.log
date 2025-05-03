@@ -1954,3 +1954,64 @@ java.util.NoSuchElementException: No value present
 [03May2025 21:24:47.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 6BlueBird9 moved too quickly! -5.093716082818659,-0.16779664663324922,-9.008816732317094
 [03May2025 21:25:06.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NDNatsu: Set own game mode to Spectator Mode]
 [03May2025 21:25:15.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Disme A Dozen]
+[03May2025 21:25:29.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 34972ms or 699 ticks behind
+[03May2025 21:25:36.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NDNatsu moved too quickly! -10.176130812116298,0.0,-3.8738008086515663
+[03May2025 21:25:58.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Removed every effect from Elenitive]
+[03May2025 21:26:01.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has reached the goal [Here They Come]
+[03May2025 21:26:14.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30029ms or 600 ticks behind
+[03May2025 21:26:30.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NDNatsu: Set own game mode to Creative Mode]
+[03May2025 21:26:51.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22372ms or 447 ticks behind
+[03May2025 21:27:30.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24123ms or 482 ticks behind
+[03May2025 21:28:03.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Chest Slayer]
+[03May2025 21:28:06.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Amateur Archaeologist]
+[03May2025 21:28:08.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Barrel Booty]
+[03May2025 21:28:12.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26641ms or 532 ticks behind
+[03May2025 21:28:14.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NDNatsu: Set own game mode to Spectator Mode]
+[03May2025 21:28:34.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Alex's Caves]
+[03May2025 21:28:38.077] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeoncrawl:dungeon took 297 ms
+[03May2025 21:28:38.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NDNatsu: Set own game mode to Creative Mode]
+[03May2025 21:28:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NDNatsu: Set own game mode to Spectator Mode]
+[03May2025 21:28:52.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Teleported Elenitive to 9248.500000, 72.876216, 2288.500000]
+[03May2025 21:28:53.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NDNatsu moved too quickly! -10.731865754251885,0.0,-1.7640295141163733
+[03May2025 21:28:55.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28161ms or 563 ticks behind
+[03May2025 21:28:58.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
+[03May2025 21:29:00.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NDNatsu: Set own game mode to Creative Mode]
+[03May2025 21:29:02.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Disme A Dozen]
+[03May2025 21:29:06.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NDNatsu: Set own game mode to Spectator Mode]
+[03May2025 21:29:23.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has reached the goal [Strong Undead]
+[03May2025 21:29:27.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NDNatsu: Set own game mode to Creative Mode]
+[03May2025 21:29:27.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Your First Receptacle]
+[03May2025 21:29:29.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NDNatsu: Set own game mode to Spectator Mode]
+[03May2025 21:29:32.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21746ms or 434 ticks behind
+[03May2025 21:29:49.501] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from ivii#7cdb0d64 to ivii_s_Party#ede3c7eb
+[03May2025 21:29:49.501] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 7cdb0d64-19f0-3c6c-95d6-c3907a315282 (ivii#7cdb0d64) to ede3c7eb-aa3e-4ee3-8664-dc19d8c37831 (ivii_s_Party#ede3c7eb)
+[03May2025 21:29:49.501] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 7cdb0d64-19f0-3c6c-95d6-c3907a315282 (ivii#7cdb0d64) due to claim limits
+[03May2025 21:29:49.502] [Server thread/INFO] [FTB Chunks/]: Team ivii_s_Party#ede3c7eb had 0 claimed chunks, now has 0
+[03May2025 21:30:07.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19777ms or 395 ticks behind
+[03May2025 21:30:11.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[03May2025 21:30:12.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivii lost connection: Disconnected
+[03May2025 21:30:12.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii left the game
+[03May2025 21:30:40.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18598ms or 371 ticks behind
+[03May2025 21:30:46.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> axe dragonsteel
+[03May2025 21:30:55.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
+[03May2025 21:31:12.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16374ms or 327 ticks behind
+[03May2025 21:31:34.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Teleported Elenitive to 5000.500000, 1.610000, 2291.080000]
+[03May2025 21:31:35.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NDNatsu moved too quickly! 9.635038954058928,0.0,3.1298816144339128
+[03May2025 21:31:39.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NDNatsu: Set own game mode to Creative Mode]
+[03May2025 21:31:46.746] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeoncrawl:dungeon took 8 ms
+[03May2025 21:31:52.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Teleported Elenitive to 4160.500000, 1.610000, 1728.500000]
+[03May2025 21:31:52.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25747ms or 514 ticks behind
+[03May2025 21:32:04.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Draconic Evolution]
+[03May2025 21:32:25.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17372ms or 347 ticks behind
+[03May2025 21:33:04.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24473ms or 489 ticks behind
+[03May2025 21:33:15.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[03May2025 21:33:43.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24098ms or 481 ticks behind
+[03May2025 21:34:01.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 6BlueBird9 moved too quickly! 6.875235781508312,0.0,-8.110429393170136
+[03May2025 21:34:07.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[03May2025 21:34:17.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[03May2025 21:34:17.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19079ms or 381 ticks behind
+[03May2025 21:34:29.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[03May2025 21:34:36.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NDNatsu: Applied effect Regeneration to Elenitive]
+[03May2025 21:34:50.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18250ms or 365 ticks behind
+[03May2025 21:35:22.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16804ms or 336 ticks behind
+[03May2025 21:35:52.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14444ms or 288 ticks behind
