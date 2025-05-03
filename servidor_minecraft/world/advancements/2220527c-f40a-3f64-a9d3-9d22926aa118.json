@@ -247,7 +247,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:wither_skeleton": "2025-05-03 20:52:58 +0000"
+      "minecraft:wither_skeleton": "2025-05-03 20:52:58 +0000",
+      "minecraft:zombie": "2025-05-03 21:30:27 +0000"
     },
     "done": false
   },
@@ -381,6 +382,8 @@
     "criteria": {
       "jacaranda_glade": "2025-05-03 21:27:16 +0000",
       "coniferous_forest": "2025-05-03 20:57:41 +0000",
+      "spider_nest": "2025-05-03 21:29:15 +0000",
+      "wasteland": "2025-05-03 21:31:35 +0000",
       "lush_desert": "2025-05-03 21:18:48 +0000",
       "redwood_forest": "2025-05-03 21:22:07 +0000",
       "pasture": "2025-05-03 20:58:35 +0000",
@@ -391,6 +394,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-05-03 21:37:37 +0000",
       "opened_chest": "2025-05-03 21:05:46 +0000"
     },
     "done": false
@@ -593,9 +597,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-03 21:28:02 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-05-03 21:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-03 21:28:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-05-03 21:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-05-03 21:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2025-05-03 21:36:28 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/food/uncooked_rice_bowl": {
     "criteria": {
       "has_dtn_rice_grains": "2025-05-03 21:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-03 21:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-03 21:34:38 +0000"
     },
     "done": true
   },
@@ -608,6 +660,24 @@
   "doggytalents:recipes/food/training_treat": {
     "criteria": {
       "has_dtn_rice_grains": "2025-05-03 21:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2025-05-03 21:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2025-05-03 21:34:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-03 21:34:24 +0000"
     },
     "done": true
   },

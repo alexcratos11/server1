@@ -237,8 +237,10 @@
     "criteria": {
       "minecraft:river": "2025-05-03 21:21:03 +0000",
       "minecraft:dripstone_caves": "2025-05-03 21:04:06 +0000",
+      "minecraft:desert": "2025-05-03 21:35:23 +0000",
       "minecraft:flower_forest": "2025-05-03 21:19:50 +0000",
-      "minecraft:meadow": "2025-05-03 21:20:13 +0000"
+      "minecraft:meadow": "2025-05-03 21:20:13 +0000",
+      "minecraft:plains": "2025-05-03 21:38:32 +0000"
     },
     "done": false
   },
@@ -251,7 +253,9 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "jacaranda_glade": "2025-05-03 21:21:06 +0000",
+      "maple_woods": "2025-05-03 21:34:32 +0000",
       "coniferous_forest": "2025-05-03 21:21:39 +0000",
+      "seasonal_forest": "2025-05-03 21:34:04 +0000",
       "lavender_field": "2025-05-03 21:04:26 +0000",
       "fir_clearing": "2025-05-03 21:21:54 +0000",
       "prairie": "2025-05-03 21:21:32 +0000"
@@ -276,15 +280,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/dark_oak_brown_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/cherry_pink_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-05-03 21:40:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
     },
     "done": true
   },
@@ -312,9 +370,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-05-03 21:35:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:12 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/mangrove_white_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
     },
     "done": true
   },
@@ -348,6 +424,30 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/sunglasses": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
   "buntsy:recipes/misc/fairy_collection_tray": {
     "criteria": {
       "has_gentlit_log": "2025-05-03 21:24:56 +0000"
@@ -360,15 +460,57 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/plague_doctor_mask": {
+    "criteria": {
+      "has_leather": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/leather/leather_knife": {
+    "criteria": {
+      "has_leather": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_yellow_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/giant_stick": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
     },
     "done": true
   },
@@ -408,9 +550,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-03 21:41:51 +0000"
+    },
+    "done": true
+  },
   "buntsy:recipes/misc/bravot_planks": {
     "criteria": {
       "TagKey[minecraft:item / buntsy:bravot_logs]": "2025-05-03 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "axe": "2025-05-03 21:32:04 +0000"
     },
     "done": true
   },
@@ -422,6 +576,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:creeper": "2025-05-03 21:35:50 +0000",
+      "minecraft:wither": "2025-05-03 21:29:23 +0000",
       "minecraft:witch": "2025-05-03 21:20:35 +0000"
     },
     "done": false
@@ -432,9 +588,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:12 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/oak_brown_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 21:29:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-03 21:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-03 21:40:05 +0000"
     },
     "done": true
   },
@@ -444,9 +630,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-03 21:20:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
     },
     "done": true
   },
@@ -459,6 +657,12 @@
   "fairyfactions:recipes/decorations/jungle_white_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
     },
     "done": true
   },
@@ -492,11 +696,41 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-05-03 21:17:39 +0000"
     },
     "done": true
+  },
+  "doggytalents:recipes/decorations/tantan_cape": {
+    "criteria": {
+      "has_leather": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-05-03 21:37:37 +0000"
+    },
+    "done": false
   },
   "fairyfactions:recipes/decorations/cherry_white_fairy_bed": {
     "criteria": {
@@ -504,9 +738,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/cherry_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:12 +0000"
     },
     "done": true
   },
@@ -519,6 +765,30 @@
   "fairyfactions:recipes/decorations/dark_oak_cyan_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/conan_suit": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/leather/leather_strip_from_leather": {
+    "criteria": {
+      "has_leather": "2025-05-03 21:40:05 +0000"
     },
     "done": true
   },
@@ -543,6 +813,24 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-05-03 21:40:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
     },
     "done": true
   },
@@ -576,9 +864,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-05-03 21:41:51 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/spruce_lime_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
     },
     "done": true
   },
@@ -606,9 +918,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/cherry_light_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-03 21:40:05 +0000"
     },
     "done": true
   },
@@ -618,9 +960,27 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/cape_coloured": {
+    "criteria": {
+      "has_leather": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/spruce_purple_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-03 21:40:05 +0000"
     },
     "done": true
   },
@@ -636,6 +996,36 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/dog_plushie_toy_item": {
+    "criteria": {
+      "has_white_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-03 21:35:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
   "mekanismtools:alternate_tools": {
     "criteria": {
       "tools": "2025-05-03 21:23:45 +0000"
@@ -645,6 +1035,12 @@
   "fairyfactions:recipes/decorations/oak_yellow_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
     },
     "done": true
   },
@@ -672,9 +1068,33 @@
     },
     "done": true
   },
+  "fairyfactions:recipes/misc/fairy_wand": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_cyan_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
     },
     "done": true
   },
@@ -693,6 +1113,30 @@
   "fairyfactions:recipes/decorations/acacia_white_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-05-03 21:37:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/leather_jacket": {
+    "criteria": {
+      "has_leather": "2025-05-03 21:40:05 +0000"
     },
     "done": true
   },
@@ -732,6 +1176,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/birch_light_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
@@ -756,15 +1206,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/dark_oak_yellow_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/acacia_purple_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-03 21:41:51 +0000"
     },
     "done": true
   },
@@ -777,6 +1257,42 @@
   "fairyfactions:recipes/decorations/spruce_orange_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/uncooked_rice_bowl": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-05-03 21:40:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-03 21:38:43 +0000"
     },
     "done": true
   },
@@ -804,6 +1320,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/acacia_cyan_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
@@ -813,6 +1335,12 @@
   "fairyfactions:recipes/decorations/cherry_yellow_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
     },
     "done": true
   },
@@ -828,9 +1356,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/acacia_magenta_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-03 21:28:45 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/lab_coat": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
     },
     "done": true
   },
@@ -852,6 +1398,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/cherry_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
@@ -864,9 +1422,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/birch_pink_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-05-03 21:29:27 +0000"
     },
     "done": true
   },
@@ -876,9 +1458,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:12 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_orange_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
     },
     "done": true
   },
@@ -906,6 +1506,30 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:04 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/treat_bag": {
+    "criteria": {
+      "has_leather": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/cherry_light_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
@@ -918,15 +1542,57 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/beastars_uniform_male": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/birch_light_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/leather/leather_shears": {
+    "criteria": {
+      "has_leather": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/spruce_magenta_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/leather/leather_sheet_from_leather": {
+    "criteria": {
+      "has_leather": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-05-03 21:40:04 +0000"
     },
     "done": true
   },
@@ -942,6 +1608,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:04 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/spruce_black_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
@@ -951,6 +1635,18 @@
   "fairyfactions:recipes/decorations/oak_light_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-05-03 21:40:06 +0000"
     },
     "done": true
   },
@@ -990,15 +1686,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/spruce_red_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/dark_oak_black_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/training_treat": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-05-03 21:40:08 +0000"
     },
     "done": true
   },
@@ -1011,6 +1725,30 @@
   "fairyfactions:recipes/decorations/spruce_cyan_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-05-03 21:40:06 +0000"
     },
     "done": true
   },
@@ -1044,15 +1782,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
   "buntsy:recipes/misc/fairy_offering_bench": {
     "criteria": {
       "has_gentlit_log": "2025-05-03 21:24:56 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:12 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/dark_oak_lime_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
     },
     "done": true
   },
@@ -1065,6 +1827,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:witch": "2025-05-03 21:20:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
     },
     "done": true
   },
@@ -1116,15 +1884,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-03 21:35:51 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/mangrove_pink_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:12 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_light_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-05-03 21:40:03 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/building_blocks/dog_bed_def": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
     },
     "done": true
   },
@@ -1158,9 +1950,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2025-05-03 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/birch_green_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-03 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/beastars_uniform_female": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:40:05 +0000"
     },
     "done": true
   },

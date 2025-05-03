@@ -14173,3 +14173,148 @@ java.util.NoSuchElementException: No value present
 [03May2025 21:34:50.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18250ms or 365 ticks behind
 [03May2025 21:35:22.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16804ms or 336 ticks behind
 [03May2025 21:35:52.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14444ms or 288 ticks behind
+[03May2025 21:36:16.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NDNatsu: Applied effect Strength to Elenitive]
+[03May2025 21:36:25.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18226ms or 364 ticks behind
+[03May2025 21:36:28.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Suit Up]
+[03May2025 21:36:40.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NDNatsu: Applied effect Bad Luck to Elenitive]
+[03May2025 21:36:51.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11465ms or 229 ticks behind
+[03May2025 21:36:52.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
+[03May2025 21:37:07.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NDNatsu: Removed effect Bad Luck from Elenitive]
+[03May2025 21:37:17.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10487ms or 209 ticks behind
+[03May2025 21:37:31.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[03May2025 21:37:32.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NDNatsu: Applied effect Luck to Elenitive]
+[03May2025 21:37:37.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement ['X' Marks the Spot]
+[03May2025 21:37:37.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Barrel Booty]
+[03May2025 21:37:41.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9227ms or 184 ticks behind
+[03May2025 21:37:47.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
+[03May2025 21:38:00.123] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (3700 | 31 | 2084).
+[03May2025 21:38:00.123] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[03May2025 21:38:00.124] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 5(0) Rooms
+[03May2025 21:38:00.124] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[03May2025 21:38:00.124] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 5(0) Rooms
+[03May2025 21:38:00.124] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[03May2025 21:38:00.124] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 9(0) Nodes and 6(0) Rooms
+[03May2025 21:38:00.124] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[03May2025 21:38:00.124] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 6(4) Nodes and 6(0) Rooms
+[03May2025 21:38:00.124] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[03May2025 21:38:00.124] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 5(0) Rooms
+[03May2025 21:38:04.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8567ms or 171 ticks behind
+[03May2025 21:38:21.594] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (4132 | 57 | 2100).
+[03May2025 21:38:21.594] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[03May2025 21:38:21.594] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 4(0) Rooms
+[03May2025 21:38:21.594] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[03May2025 21:38:21.594] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 6(0) Rooms
+[03May2025 21:38:21.594] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[03May2025 21:38:21.594] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(0) Nodes and 6(0) Rooms
+[03May2025 21:38:21.594] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[03May2025 21:38:21.594] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 5(7) Nodes and 5(0) Rooms
+[03May2025 21:38:21.594] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[03May2025 21:38:21.595] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 4(0) Rooms
+[03May2025 21:38:26.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6365ms or 127 ticks behind
+[03May2025 21:38:36.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[03May2025 21:38:43.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 21:38:43.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 21:38:43.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
+[03May2025 21:38:43.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [My Name is Nobody]
+[03May2025 21:38:50.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9510ms or 190 ticks behind
+[03May2025 21:38:55.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! 4.714470564497788,1.0678464424324012,9.678991310880974
+[03May2025 21:39:13.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7250ms or 145 ticks behind
+[03May2025 21:39:20.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Dragonslayer]
+[03May2025 21:39:32.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4190ms or 83 ticks behind
+[03May2025 21:39:50.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3167ms or 63 ticks behind
+[03May2025 21:40:08.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3251ms or 65 ticks behind
+[03May2025 21:40:27.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3870ms or 77 ticks behind
+[03May2025 21:40:48.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5603ms or 112 ticks behind
+[03May2025 21:40:56.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NDNatsu moved too quickly! 0.0,68.52860368061067,0.0
+[03May2025 21:40:57.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NDNatsu moved too quickly! 0.0,58.642623385377135,0.0
+[03May2025 21:41:11.168] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/43061, l='ServerLevel[world]', x=1071.12, y=66.52, z=296.90]
+[03May2025 21:41:13.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 6BlueBird9 moved too quickly! 7.2595311633413075,0.0,8.109502587859765
+[03May2025 21:41:20.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17610ms or 352 ticks behind
+[03May2025 21:41:40.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5110ms or 102 ticks behind
+[03May2025 21:42:00.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4790ms or 95 ticks behind
+[03May2025 21:42:00.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 6BlueBird9 lost connection: Disconnected
+[03May2025 21:42:00.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 left the game
+[03May2025 21:42:19.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4096ms or 81 ticks behind
+[03May2025 21:42:36.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2196ms or 43 ticks behind
+[03May2025 21:42:53.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[03May2025 21:43:11.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
+[03May2025 21:43:32.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6008ms or 120 ticks behind
+[03May2025 21:43:53.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5932ms or 118 ticks behind
+[03May2025 21:44:13.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4690ms or 93 ticks behind
+[03May2025 21:44:31.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3102ms or 62 ticks behind
+[03May2025 21:44:49.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
+[03May2025 21:44:51.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NDNatsu moved too quickly! 0.0,66.93095795475777,0.0
+[03May2025 21:44:54.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NDNatsu moved too quickly! 0.0,-20.65876126888962,0.0
+[03May2025 21:45:00.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NDNatsu moved too quickly! 0.0,68.52860368061069,0.0
+[03May2025 21:45:01.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NDNatsu moved too quickly! 0.0,39.5246707006923,0.0
+[03May2025 21:45:29.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24495ms or 489 ticks behind
+[03May2025 21:45:47.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 21:45:47.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 21:45:55.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11033ms or 220 ticks behind
+[03May2025 21:46:08.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NDNatsu moved too quickly! 0.0,34.63758087158203,0.0
+[03May2025 21:46:08.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NDNatsu moved too quickly! 0.0,34.63758087158203,0.0
+[03May2025 21:46:09.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NDNatsu moved too quickly! 0.0,34.63758087158203,0.0
+[03May2025 21:46:17.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[03May2025 21:46:22.196] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (4188 | 44 | 2120)
+[03May2025 21:46:22.197] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (4188 | 44 | 2120)
+[03May2025 21:46:22.197] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (4187 | 39 | 2115)
+[03May2025 21:46:22.197] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (4187 | 39 | 2115)
+[03May2025 21:46:22.198] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (4194 | 39 | 2119)
+[03May2025 21:46:22.198] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (4194 | 39 | 2119)
+[03May2025 21:46:22.199] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (4187 | 39 | 2126)
+[03May2025 21:46:22.199] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (4187 | 39 | 2126)
+[03May2025 21:46:22.200] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (4182 | 39 | 2114)
+[03May2025 21:46:22.201] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (4182 | 39 | 2114)
+[03May2025 21:46:22.201] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (4192 | 30 | 2123)
+[03May2025 21:46:22.201] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (4192 | 30 | 2123)
+[03May2025 21:46:22.201] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (4192 | 30 | 2123)
+[03May2025 21:46:22.201] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (4192 | 30 | 2123)
+[03May2025 21:46:22.201] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation COUNTERCLOCKWISE_90 at (4197 | 30 | 2127)
+[03May2025 21:46:22.201] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation COUNTERCLOCKWISE_90 at (4197 | 30 | 2127)
+[03May2025 21:46:22.201] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/large_wall at (4197 | 30 | 2127)
+[03May2025 21:46:22.201] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/large_wall at (4197 | 30 | 2127)
+[03May2025 21:46:22.201] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (4191 | 30 | 2123)
+[03May2025 21:46:22.201] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (4191 | 30 | 2123)
+[03May2025 21:46:22.201] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (4191 | 30 | 2123)
+[03May2025 21:46:22.201] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (4191 | 30 | 2123)
+[03May2025 21:46:22.536] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (4172 | 39 | 2119)
+[03May2025 21:46:22.536] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (4172 | 39 | 2119)
+[03May2025 21:46:22.536] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (4188 | 44 | 2120)
+[03May2025 21:46:22.536] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (4188 | 44 | 2120)
+[03May2025 21:46:22.536] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation COUNTERCLOCKWISE_90 at (4184 | 39 | 2118)
+[03May2025 21:46:22.536] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation COUNTERCLOCKWISE_90 at (4184 | 39 | 2118)
+[03May2025 21:46:22.536] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (4183 | 39 | 2126)
+[03May2025 21:46:22.536] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (4183 | 39 | 2126)
+[03May2025 21:46:22.536] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (4187 | 39 | 2115)
+[03May2025 21:46:22.536] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (4187 | 39 | 2115)
+[03May2025 21:46:22.538] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (4187 | 39 | 2126)
+[03May2025 21:46:22.538] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (4187 | 39 | 2126)
+[03May2025 21:46:22.539] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (4177 | 39 | 2120)
+[03May2025 21:46:22.539] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (4177 | 39 | 2120)
+[03May2025 21:46:22.539] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (4182 | 39 | 2114)
+[03May2025 21:46:22.540] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (4182 | 39 | 2114)
+[03May2025 21:46:22.540] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (4175 | 30 | 2123)
+[03May2025 21:46:22.540] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (4175 | 30 | 2123)
+[03May2025 21:46:22.540] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (4175 | 30 | 2123)
+[03May2025 21:46:22.541] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (4175 | 30 | 2123)
+[03May2025 21:46:22.541] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation COUNTERCLOCKWISE_90 at (4164 | 30 | 2123)
+[03May2025 21:46:22.541] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation COUNTERCLOCKWISE_90 at (4164 | 30 | 2123)
+[03May2025 21:46:22.541] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_turn at (4164 | 30 | 2123)
+[03May2025 21:46:22.541] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_turn at (4164 | 30 | 2123)
+[03May2025 21:46:22.541] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (4191 | 30 | 2123)
+[03May2025 21:46:22.541] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (4191 | 30 | 2123)
+[03May2025 21:46:22.541] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (4191 | 30 | 2123)
+[03May2025 21:46:22.541] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (4191 | 30 | 2123)
+[03May2025 21:46:23.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has reached the goal [I Am Become Death]
+[03May2025 21:46:28.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18702ms or 374 ticks behind
+[03May2025 21:46:29.881] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (4628 | 45 | 1604).
+[03May2025 21:46:29.881] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[03May2025 21:46:29.881] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 5(0) Rooms
+[03May2025 21:46:29.881] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[03May2025 21:46:29.881] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 6(0) Rooms
+[03May2025 21:46:29.881] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[03May2025 21:46:29.881] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 4(8) Nodes and 4(0) Rooms
+[03May2025 21:46:29.881] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[03May2025 21:46:29.882] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 11(0) Nodes and 6(0) Rooms
+[03May2025 21:46:29.882] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[03May2025 21:46:29.882] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 5(0) Rooms

@@ -2,11 +2,13 @@
 	id: "ede3c7eb-aa3e-4ee3-8664-dc19d8c37831"
 	type: "party"
 	owner: "7cdb0d64-19f0-3c6c-95d6-c3907a315282"
-	ranks: { }
+	ranks: {
+		7cdb0d64-19f0-3c6c-95d6-c3907a315282: "owner"
+	}
 	properties: {
 		"ftbteams:display_name": "ivii's Party"
 		"ftbteams:description": ""
-		"ftbteams:color": "#59FFF9"
+		"ftbteams:color": "#59D1FF"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
@@ -22,6 +24,6 @@
 		"ftbchunks:claim_visibility": "public"
 		"ftbchunks:location_mode": "allies"
 	}
-	message_history: [ ]
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1746307789500L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ivii\"}]}" }]
 	extra: { }
 }
