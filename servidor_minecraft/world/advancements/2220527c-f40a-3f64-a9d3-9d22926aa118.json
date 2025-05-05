@@ -65,6 +65,7 @@
       "shrubland": "2025-05-02 16:13:10 +0000",
       "rocky_shrubland": "2025-05-02 21:40:26 +0000",
       "scrubland": "2025-05-02 16:12:10 +0000",
+      "fungal_jungle": "2025-05-05 21:56:09 +0000",
       "floodplain": "2025-05-04 04:23:16 +0000",
       "highland": "2025-05-02 17:58:17 +0000",
       "jacaranda_glade": "2025-05-02 21:56:35 +0000",
@@ -8833,6 +8834,72 @@
   "mysticsbiomes:recipes/building_blocks/jacaranda_planks": {
     "criteria": {
       "has_logs": "2025-05-04 05:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-05 21:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-05-05 21:56:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-05-05 21:49:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-05 21:55:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2025-05-05 21:55:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-05-05 21:55:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-05 21:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-05-05 21:56:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-05-05 21:55:34 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/refining/steel_ore_from_iron_ores_and_coke": {
+    "criteria": {
+      "has_iron_ores": "2025-05-05 21:56:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-05-05 21:55:34 +0000"
     },
     "done": true
   },
