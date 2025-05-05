@@ -973,3 +973,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [05May2025 18:56:13.296] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=721, y=37, z=-1479}
 [05May2025 18:58:25.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Disconnected
 [05May2025 18:58:25.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
+[05May2025 19:02:02.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
+[05May2025 19:04:06.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
+[05May2025 19:04:06.578] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4eb99791[id=<null>,name=oinatzz,properties={},legacy=false] (/127.26.24.66:32917) lost connection: Disconnected
+[05May2025 19:04:06.580] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@688ca844[id=<null>,name=Ich1goM1rukuu,properties={},legacy=false] (/127.212.133.0:55881) lost connection: Timed out
+[05May2025 19:04:06.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 6BlueBird9 moved too quickly! 2.9013234279033213,-9.386546688096246,2.040055778458168
+[05May2025 19:04:06.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 124012ms or 2480 ticks behind
+[05May2025 19:04:06.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Timed out
+[05May2025 19:04:06.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[05May2025 19:04:06.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivii lost connection: Disconnected
+[05May2025 19:04:06.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii left the game
+[05May2025 19:04:06.925] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30c8ee8f[id=<null>,name=Ich1goM1rukuu,properties={},legacy=false] (/127.212.133.0:46311) lost connection: Disconnected
+[05May2025 19:04:06.926] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54167c6[id=<null>,name=6BlueBird9,properties={},legacy=false] (/127.101.21.104:45119) lost connection: Disconnected
+[05May2025 19:04:07.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 6BlueBird9 lost connection: Disconnected
+[05May2025 19:04:07.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 left the game
+[05May2025 19:04:07.217] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a853bc4[id=<null>,name=darkblader69,properties={},legacy=false] (/127.181.27.77:49235) lost connection: Disconnected
+[05May2025 19:05:12.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05May2025 19:05:12.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05May2025 19:05:12.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05May2025 19:05:13.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05May2025 19:05:13.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05May2025 19:05:13.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/cute_n_sweet:chocolate_dimension
+[05May2025 19:05:13.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/cute_n_sweet:gingerbread_dimension
+[05May2025 19:05:13.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05May2025 19:05:13.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05May2025 19:05:13.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05May2025 19:05:13.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (chocolate_dimension): All chunks are saved
+[05May2025 19:05:13.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gingerbread_dimension): All chunks are saved
+[05May2025 19:05:13.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05May2025 19:05:13.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05May2025 19:05:13.824] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
