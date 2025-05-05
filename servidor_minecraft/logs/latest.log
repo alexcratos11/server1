@@ -970,3 +970,23 @@ java.lang.ClassNotFoundException: com.google.common.reflect.AbstractInvocationHa
 [05May2025 19:31:27.183] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=962, y=-32, z=1118}
 [05May2025 19:31:27.183] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=959, y=-32, z=1120}
 [05May2025 19:31:48.936] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1046, y=30, z=1171}
+[05May2025 19:32:31.537] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1135, y=-41, z=1160}
+[05May2025 19:33:00.032] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1185, y=-16, z=1441}
+[05May2025 19:41:12.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Normal
+[05May2025 19:44:20.745] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2115, y=-17, z=1305}
+[05May2025 19:45:42.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii was turned to stone by Gorgon
+[05May2025 19:45:42.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6787ms or 135 ticks behind
+[05May2025 19:45:42.454] [Server thread/INFO] [tombstone/]: The player ivii has successfully been saved
+[05May2025 19:46:14.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivii was kicked for floating too long!
+[05May2025 19:46:14.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivii lost connection: Flying is not enabled on this server
+[05May2025 19:46:14.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii left the game
+[05May2025 19:46:41.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ivii[/127.1.114.128:56161] logged in with entity id 18178 at (538.9798884195149, 109.05266486342823, -905.4831083943266)
+[05May2025 19:46:41.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii joined the game
+[05May2025 19:46:41.767] [Server thread/INFO] [Jade/]: Syncing config to ivii (7cdb0d64-19f0-3c6c-95d6-c3907a315282)
+[05May2025 19:46:54.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivii was kicked for floating too long!
+[05May2025 19:46:54.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivii lost connection: Flying is not enabled on this server
+[05May2025 19:46:54.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii left the game
+[05May2025 19:47:11.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ivii[/127.1.114.128:48551] logged in with entity id 18696 at (534.1048933350229, 93.80443805044425, -901.2546238611676)
+[05May2025 19:47:11.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii joined the game
+[05May2025 19:47:11.865] [Server thread/INFO] [Jade/]: Syncing config to ivii (7cdb0d64-19f0-3c6c-95d6-c3907a315282)
+[05May2025 19:50:40.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [The Andesite Age]
