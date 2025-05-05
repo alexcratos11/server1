@@ -914,3 +914,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [05May2025 22:42:21.123] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2099, y=29, z=-1008}
 [05May2025 22:42:25.125] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1865, y=-2, z=-855}
 [05May2025 22:44:05.426] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1529, y=-18, z=-993}
+[05May2025 22:44:24.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivii moved too quickly! -5.327147453095677,-5.405431714921093,6.927265269801751
+[05May2025 22:44:24.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[05May2025 22:45:02.223] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1461, y=-28, z=-529}
+[05May2025 22:45:18.648] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1413, y=-51, z=-470}
+[05May2025 22:45:20.082] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1415, y=-51, z=-460}
+[05May2025 22:45:20.082] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1415, y=-51, z=-462}
+[05May2025 22:45:56.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:47005] logged in with entity id 8744 at (508.48245771918465, 84.0, -1307.0881209286326)
+[05May2025 22:45:56.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[05May2025 22:45:56.784] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[05May2025 22:46:04.384] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1364, y=11, z=-587}
+[05May2025 22:46:19.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1544, y=73, z=-703} BlockPos{x=1544, y=71, z=-705}
+[05May2025 22:46:19.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1544, y=73, z=-703} BlockPos{x=1544, y=71, z=-705}
+[05May2025 22:46:19.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1544, y=73, z=-703} BlockPos{x=1544, y=71, z=-705}
+[05May2025 22:46:19.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1544, y=73, z=-703} BlockPos{x=1544, y=71, z=-705}
+[05May2025 22:46:19.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1544, y=73, z=-703} BlockPos{x=1544, y=71, z=-705}
+[05May2025 22:46:19.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1544, y=73, z=-703} BlockPos{x=1544, y=71, z=-705}
+[05May2025 22:46:42.211] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1267, y=52, z=-896}
+[05May2025 22:46:42.212] [Worker-Main-11/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (1267, 52, -896)
+[05May2025 22:46:42.212] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1267, y=52, z=-896}
+[05May2025 22:46:42.215] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1279, y=52, z=-896}
+[05May2025 22:46:42.215] [Worker-Main-11/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (1279, 52, -896)
+[05May2025 22:46:42.215] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1279, y=52, z=-896}
+[05May2025 22:46:50.754] [Worker-Main-21/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1264, y=34, z=-832}
+[05May2025 22:46:50.755] [Worker-Main-21/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1264, y=32, z=-821}
+[05May2025 22:46:50.756] [Worker-Main-21/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (1264, 32, -821)
+[05May2025 22:46:50.756] [Worker-Main-21/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1264, y=32, z=-821}
+[05May2025 22:46:52.604] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1264, y=16, z=-931}
+[05May2025 22:47:47.825] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1059, y=21, z=-759}
+[05May2025 22:47:47.826] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1059, y=21, z=-758}
+[05May2025 22:47:50.044] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1068, y=36, z=-599}
+[05May2025 22:47:50.044] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1070, y=36, z=-599}
+[05May2025 22:48:07.494] [Worker-Main-21/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=992, y=20, z=-535}
+[05May2025 22:48:27.236] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=961, y=-3, z=-396}
+[05May2025 22:50:00.281] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=727, y=-28, z=-1526}
+[05May2025 22:50:00.282] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=727, y=-28, z=-1525}
+[05May2025 22:51:11.345] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1383, y=-31, z=-432}
+[05May2025 22:52:26.582] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1489, y=25, z=-78}
+[05May2025 22:52:27.525] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1513, y=-51, z=-89}
+[05May2025 22:52:27.526] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1513, y=-51, z=-88}

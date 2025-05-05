@@ -8815,6 +8815,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-05-05 22:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-05-05 22:06:00 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/refining/steel_ore_from_iron_ores_and_coke": {
+    "criteria": {
+      "has_iron_ores": "2025-05-05 22:06:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-05 22:07:19 +0000"
@@ -8863,12 +8881,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-05-05 22:06:00 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-05 22:07:19 +0000"
@@ -8884,18 +8896,6 @@
   "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-05 22:07:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-05-05 22:06:00 +0000"
-    },
-    "done": true
-  },
-  "material_elements:recipes/refining/steel_ore_from_iron_ores_and_coke": {
-    "criteria": {
-      "has_iron_ores": "2025-05-05 22:06:00 +0000"
     },
     "done": true
   },
