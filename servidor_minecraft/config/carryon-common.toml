@@ -1,4 +1,13 @@
 
+[whitelist]
+	#Whitelist. Read about the format here: https://github.com/Tschipp/CarryOn/wiki/Black---and-Whitelist-Config
+	#Entities that CAN be picked up (useWhitelistEntities must be true)
+	allowedEntities = []
+	#Blocks that CAN be picked up (useWhitelistBlocks must be true)
+	allowedBlocks = []
+	#Entities that CAN have other entities stacked on top of them (useWhitelistStacking must be true)
+	allowedStacking = []
+
 [settings]
 	#General Settings
 	#Maximum distance from where Blocks and Entities can be picked up
@@ -53,15 +62,6 @@
 	pickupPlayers = true
 	#Whether players in Survival Mode can pick up unbreakable blocks. Creative players always can.
 	pickupUnbreakableBlocks = false
-
-[whitelist]
-	#Whitelist. Read about the format here: https://github.com/Tschipp/CarryOn/wiki/Black---and-Whitelist-Config
-	#Entities that CAN be picked up (useWhitelistEntities must be true)
-	allowedEntities = []
-	#Blocks that CAN be picked up (useWhitelistBlocks must be true)
-	allowedBlocks = []
-	#Entities that CAN have other entities stacked on top of them (useWhitelistStacking must be true)
-	allowedStacking = []
 
 [blacklist]
 	#Blacklist. Read about the format here: https://github.com/Tschipp/CarryOn/wiki/Black---and-Whitelist-Config
