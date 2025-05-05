@@ -6002,6 +6002,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "minecraft:white": "2025-05-05 23:04:19 +0000",
+      "minecraft:siamese": "2025-05-05 23:09:19 +0000",
       "minecraft:jellie": "2025-05-03 02:43:59 +0000"
     },
     "done": false
@@ -9285,6 +9287,24 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-05-05 22:03:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-05-05 22:56:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-05-05 22:56:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-05-05 23:08:26 +0000"
     },
     "done": true
   },

@@ -7920,5 +7920,83 @@
     },
     "done": true
   },
+  "buntsy:recipes/misc/bravot_planks": {
+    "criteria": {
+      "TagKey[minecraft:item / buntsy:bravot_logs]": "2025-05-05 22:53:11 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-05-05 22:58:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-05-05 22:58:27 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/gentlit_planks": {
+    "criteria": {
+      "TagKey[minecraft:item / buntsy:gentlit_logs]": "2025-05-05 23:02:29 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fairy_collection_tray": {
+    "criteria": {
+      "has_gentlit_log": "2025-05-05 23:02:29 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_gentlit_log": "2025-05-05 23:02:29 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fairy_infusion_bench": {
+    "criteria": {
+      "has_gentlit_log": "2025-05-05 23:02:29 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fairy_offering_bench": {
+    "criteria": {
+      "has_gentlit_log": "2025-05-05 23:02:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-05-05 23:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-05 23:10:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-05-05 23:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-05 23:10:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-05-05 23:10:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
