@@ -2,9 +2,7 @@
 	id: "1bb4c909-b771-3893-aca7-1b6637a25cff"
 	type: "player"
 	player_name: "Ich1goM1rukuu"
-	ranks: {
-		1bb4c909-b771-3893-aca7-1b6637a25cff: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Ich1goM1rukuu"
 		"ftbteams:description": ""

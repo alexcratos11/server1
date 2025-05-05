@@ -2,9 +2,7 @@
 	id: "c5ed7fb1-b56d-3780-a140-29be33768a49"
 	type: "player"
 	player_name: "darkblader69"
-	ranks: {
-		c5ed7fb1-b56d-3780-a140-29be33768a49: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "darkblader69"
 		"ftbteams:description": ""
