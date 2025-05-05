@@ -8030,27 +8030,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
     "criteria": {
-      "has_item": "2025-05-05 21:30:13 +0000"
+      "has_log": "2025-05-05 21:27:29 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
     "criteria": {
-      "has_item": "2025-05-05 21:30:13 +0000"
+      "has_logs": "2025-05-05 21:27:29 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/redstone/maple_door": {
     "criteria": {
       "has_planks": "2025-05-05 21:27:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/maple_wood": {
-    "criteria": {
-      "has_log": "2025-05-05 21:27:29 +0000"
     },
     "done": true
   },
@@ -8084,15 +8078,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-05 21:30:13 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/maple_button": {
     "criteria": {
       "has_planks": "2025-05-05 21:27:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_planks": "2025-05-05 21:27:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-05 21:27:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-05-05 21:30:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-05-05 21:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-05 21:30:13 +0000"
     },
     "done": true
   },
@@ -8120,27 +8138,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/maple_fence": {
-    "criteria": {
-      "has_planks": "2025-05-05 21:27:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/maple_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-05 21:27:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-05 21:30:13 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/maple_planks": {
-    "criteria": {
-      "has_logs": "2025-05-05 21:27:29 +0000"
     },
     "done": true
   },
