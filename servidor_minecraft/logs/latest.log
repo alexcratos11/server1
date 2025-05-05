@@ -970,3 +970,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [05May2025 22:00:59.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [05May2025 22:01:47.742] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1942, y=-29, z=-907}
 [05May2025 22:02:15.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05May2025 22:04:25.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii was turned to stone by Gorgon
+[05May2025 22:04:25.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3491ms or 69 ticks behind
+[05May2025 22:04:25.721] [Server thread/INFO] [tombstone/]: The player ivii has successfully been saved
+[05May2025 22:04:41.900] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=356, y=-37, z=-1070}
+[05May2025 22:04:41.900] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=356, y=-37, z=-1069}
+[05May2025 22:05:24.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has reached the goal [Chain Death]
+[05May2025 22:05:24.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii was turned to stone by Gorgon
+[05May2025 22:05:24.916] [Server thread/INFO] [tombstone/]: The player ivii has successfully been saved
+[05May2025 22:07:16.706] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-804, y=22, z=253}
+[05May2025 22:07:59.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive lost connection: Disconnected
+[05May2025 22:07:59.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive left the game
+[05May2025 22:10:54.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elenitive[/127.60.88.4:60511] logged in with entity id 25617 at (-821.0848495334546, 72.0, 458.30000001192093)
+[05May2025 22:10:54.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive joined the game
+[05May2025 22:10:54.396] [Server thread/INFO] [Jade/]: Syncing config to Elenitive (2220527c-f40a-3f64-a9d3-9d22926aa118)
