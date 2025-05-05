@@ -7704,5 +7704,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-05-05 20:30:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

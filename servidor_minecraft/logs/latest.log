@@ -1207,3 +1207,39 @@ java.lang.ClassNotFoundException: com.google.common.reflect.AbstractInvocationHa
 [05May2025 20:19:10.636] [Server thread/WARN] [tombstone/]: The death event of the player ivii was canceled by another mod
 [05May2025 20:19:10.640] [Server thread/INFO] [tombstone/]: The player ivii has successfully been saved
 [05May2025 20:20:41.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [My Name is Nobody]
+[05May2025 20:26:14.248] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1891, y=-31, z=-31}
+[05May2025 20:26:14.248] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1893, y=-31, z=-31}
+[05May2025 20:26:26.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 6BlueBird9 moved too quickly! 6.861486062205131,7.724584988187502,-1.0577659017248493
+[05May2025 20:26:26.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3617ms or 72 ticks behind
+[05May2025 20:26:32.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 6BlueBird9 moved too quickly! 1.55722878876918,1.6832269099306103,-10.1286926278012
+[05May2025 20:26:47.144] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2327, y=-11, z=335}
+[05May2025 20:26:47.144] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2328, y=-11, z=335}
+[05May2025 20:26:47.144] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2329, y=-11, z=335}
+[05May2025 20:27:06.604] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2051, y=-26, z=-89}
+[05May2025 20:27:07.296] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2209, y=-1, z=-85}
+[05May2025 20:27:21.048] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2103, y=-49, z=-140}
+[05May2025 20:27:23.709] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2395, y=-38, z=173}
+[05May2025 20:27:46.919] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1958, y=21, z=-119}
+[05May2025 20:27:46.919] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1959, y=21, z=-119}
+[05May2025 20:27:46.919] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1955, y=23, z=-125}
+[05May2025 20:27:46.919] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1954, y=23, z=-125}
+[05May2025 20:29:26.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Timed out
+[05May2025 20:29:26.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
+[05May2025 20:29:31.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:60849] logged in with entity id 53360 at (508.9602564408092, 84.0, -1304.2091979730537)
+[05May2025 20:29:31.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[05May2025 20:29:31.251] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[05May2025 20:29:45.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.181.27.77:50177] logged in with entity id 53719 at (1070.387676690453, 63.0, 360.69999998807907)
+[05May2025 20:29:45.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[05May2025 20:29:45.686] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
+[05May2025 20:30:23.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Pic-A-Nic Basket?]
+[05May2025 20:30:23.681] [Server thread/WARN] [tombstone/]: The death event of the player ivii was canceled by another mod
+[05May2025 20:30:23.704] [Server thread/INFO] [tombstone/]: The player ivii has successfully been saved
+[05May2025 20:31:20.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 6BlueBird9 lost connection: Disconnected
+[05May2025 20:31:20.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 left the game
+[05May2025 20:31:47.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 6BlueBird9[/127.101.21.104:53605] logged in with entity id 55188 at (1928.2596597082388, 63.0, 145.1541802380193)
+[05May2025 20:31:47.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 joined the game
+[05May2025 20:31:47.757] [Server thread/INFO] [Jade/]: Syncing config to 6BlueBird9 (63ac96dc-a71b-3ed0-b556-ab6f2d2ef366)
+[05May2025 20:34:09.509] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1583, y=-38, z=6}
+[05May2025 20:34:09.510] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1582, y=-38, z=6}
+[05May2025 20:34:11.028] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1574, y=27, z=-151}
+[05May2025 20:34:11.028] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1574, y=27, z=-149}
