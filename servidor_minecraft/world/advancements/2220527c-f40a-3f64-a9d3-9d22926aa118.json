@@ -9935,6 +9935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 03:43:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_pink_dye": "2025-05-06 03:25:31 +0000"
@@ -9992,6 +9998,12 @@
   "minecraft:recipes/building_blocks/dye_lime_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-06 03:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2025-05-06 03:43:39 +0000"
     },
     "done": true
   },
@@ -10223,6 +10235,12 @@
     },
     "done": true
   },
+  "material_elements:recipes/brewing/test_tube_color_magenta_from_magenta_dye": {
+    "criteria": {
+      "has_dye": "2025-05-06 03:43:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-06 03:24:04 +0000"
@@ -10250,6 +10268,18 @@
   "minecraft:recipes/building_blocks/dye_light_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-06 03:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 03:43:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 03:43:39 +0000"
     },
     "done": true
   },
