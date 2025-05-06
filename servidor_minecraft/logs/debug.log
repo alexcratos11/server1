@@ -12684,3 +12684,46 @@ java.util.NoSuchElementException: No value present
 [06May2025 01:14:59.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2451ms or 49 ticks behind
 [06May2025 01:15:20.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [The End?]
 [06May2025 01:19:01.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Free the End]
+[06May2025 01:19:15.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 01:19:15.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 01:19:40.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has reached the goal [The Next Generation]
+[06May2025 01:20:19.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has reached the goal [The Next Generation]
+[06May2025 01:23:32.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Remote Getaway]
+[06May2025 01:23:32.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Remote Getaway]
+[06May2025 01:24:15.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 01:24:15.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 01:29:15.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 01:29:15.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 01:29:21.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Sneak 100]
+[06May2025 01:29:44.167] [Server thread/WARN] [tombstone/]: The death event of the player ivii was canceled by another mod
+[06May2025 01:29:44.187] [Server thread/INFO] [tombstone/]: The player ivii has successfully been saved
+[06May2025 01:30:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii was obliterated by a sonically-charged shriek
+[06May2025 01:30:04.426] [Server thread/DEBUG] [tombstone/]: A new grave of the player ivii was created at position [x:936, y:-55, z:-1657, dim:minecraft:overworld]
+[06May2025 01:30:04.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -8.20300436728985,1.67493760088594,6.348714670361005
+[06May2025 01:30:05.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
+[06May2025 01:31:59.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [The City at the End of the Game]
+[06May2025 01:34:17.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 01:34:17.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 01:34:18.654] [Server thread/WARN] [tombstone/]: The death event of the player aaleexx17 was canceled by another mod
+[06May2025 01:34:18.673] [Server thread/INFO] [tombstone/]: The player aaleexx17 has successfully been saved
+[06May2025 01:34:21.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has completed the challenge [Almost Unkillable]
+[06May2025 01:34:21.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 froze to death
+[06May2025 01:34:21.582] [Server thread/DEBUG] [tombstone/]: A new grave of the player aaleexx17 was created at position [x:760, y:59, z:1053, dim:minecraft:the_end]
+[06May2025 01:34:21.583] [Server thread/INFO] [tombstone/]: The player aaleexx17 has successfully been saved
+[06May2025 01:34:39.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has reached the goal [Here They Come]
+[06May2025 01:35:07.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [The Most Useful Key]
+[06May2025 01:35:17.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has reached the goal [A Fast Comeback]
+[06May2025 01:35:22.377] [Server thread/WARN] [tombstone/]: The death event of the player aaleexx17 was canceled by another mod
+[06May2025 01:35:22.381] [Server thread/INFO] [tombstone/]: The player aaleexx17 has successfully been saved
+[06May2025 01:35:30.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.freeze.item
+[06May2025 01:35:30.581] [Server thread/DEBUG] [tombstone/]: A new grave of the player aaleexx17 was created at position [x:762, y:59, z:1052, dim:minecraft:the_end]
+[06May2025 01:35:30.582] [Server thread/INFO] [tombstone/]: The player aaleexx17 has successfully been saved
+[06May2025 01:35:47.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4351ms or 87 ticks behind
+[06May2025 01:36:12.927] [Server thread/WARN] [tombstone/]: The death event of the player aaleexx17 was canceled by another mod
+[06May2025 01:36:12.929] [Server thread/INFO] [tombstone/]: The player aaleexx17 has successfully been saved
+[06May2025 01:36:14.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has reached the goal [Chain Death]
+[06May2025 01:36:14.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 froze to death
+[06May2025 01:36:14.932] [Server thread/DEBUG] [tombstone/]: A new grave of the player aaleexx17 was created at position [x:754, y:57, z:1028, dim:minecraft:the_end]
+[06May2025 01:36:14.933] [Server thread/INFO] [tombstone/]: The player aaleexx17 has successfully been saved
+[06May2025 01:39:22.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 01:39:22.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
