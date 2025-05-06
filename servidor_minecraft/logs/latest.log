@@ -929,3 +929,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [06May2025 17:29:51.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
 [06May2025 17:33:20.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
 [06May2025 17:34:22.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 17:44:22.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[06May2025 17:50:26.036] [Worker-Main-49/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=140, y=-25, z=-5106}
+[06May2025 17:50:26.037] [Worker-Main-49/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=141, y=-25, z=-5106}
+[06May2025 17:50:26.037] [Worker-Main-49/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=142, y=-25, z=-5106}
+[06May2025 17:50:26.038] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=139, y=-25, z=-5103}
+[06May2025 17:50:36.939] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=481, y=-36, z=-5081}
+[06May2025 17:50:41.696] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=475, y=-1, z=-5152}
+[06May2025 17:50:53.949] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=391, y=-37, z=-4713}
+[06May2025 17:51:25.002] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-21, y=-48, z=-4744}
+[06May2025 17:51:43.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 17:52:13.537] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-103, y=-49, z=-4948}
+[06May2025 17:52:39.595] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-221, y=11, z=-4931}
+[06May2025 17:53:08.246] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-270, y=-47, z=-5259}
+[06May2025 17:54:22.394] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-710, y=-25, z=-5111}
+[06May2025 17:54:55.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! 10.090680368994413,0.0,0.8296884445353498
+[06May2025 17:54:55.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2386ms or 47 ticks behind
+[06May2025 17:54:57.164] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-512, y=33, z=-4853}
+[06May2025 17:54:57.206] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-515, y=33, z=-4852}
+[06May2025 17:55:11.312] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-779, y=-13, z=-5081}
+[06May2025 17:55:13.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -9.038150863208102,-4.766367993957523,-0.145580203663485
+[06May2025 17:55:13.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
+[06May2025 17:55:15.650] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-792, y=-6, z=-5095}
+[06May2025 17:56:11.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[06May2025 17:56:53.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 17:57:43.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[06May2025 17:59:28.337] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/13721, l='ServerLevel[world]', x=-659.94, y=103.50, z=-4844.84] died, message: 'Farmer was pricked to death'
+[06May2025 17:59:44.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! 3.6160316567481914,-2.119990336132286,9.22737298494576
+[06May2025 17:59:44.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[06May2025 17:59:53.559] [Worker-Main-49/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-772, y=-42, z=-4736}
+[06May2025 17:59:53.560] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-775, y=-42, z=-4739}
