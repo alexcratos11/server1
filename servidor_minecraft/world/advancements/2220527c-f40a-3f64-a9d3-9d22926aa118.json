@@ -125,6 +125,7 @@
       "minecraft:deep_cold_ocean": "2025-05-05 23:45:18 +0000",
       "minecraft:ocean": "2025-05-02 19:25:24 +0000",
       "minecraft:jungle": "2025-05-04 04:14:06 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-06 18:50:03 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-04 04:17:47 +0000",
       "minecraft:flower_forest": "2025-05-06 04:10:34 +0000",
       "minecraft:frozen_peaks": "2025-05-02 16:36:03 +0000",
@@ -10449,6 +10450,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-05-06 18:36:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/package_filter": {
+    "criteria": {
+      "has_item": "2025-05-06 18:36:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-05-06 18:17:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-06 17:22:21 +0000"
@@ -10458,6 +10477,12 @@
   "material_elements:recipes/brewing/test_tube_color_green_from_green_dye": {
     "criteria": {
       "has_dye": "2025-05-06 18:02:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/chain_from_zinc": {
+    "criteria": {
+      "has_item": "2025-05-06 18:36:33 +0000"
     },
     "done": true
   },
@@ -10497,9 +10522,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-05-06 18:41:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-05-06 17:21:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-05-06 18:41:38 +0000"
     },
     "done": true
   },
@@ -10524,6 +10561,12 @@
   "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-05-06 17:21:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-06 18:41:38 +0000"
     },
     "done": true
   },
@@ -10581,6 +10624,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-05-06 18:36:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-05-06 17:21:29 +0000"
@@ -10599,15 +10648,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-05-06 18:17:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_green_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-06 18:02:36 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-05-06 18:41:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2025-05-06 17:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-05-06 18:17:12 +0000"
     },
     "done": true
   },
@@ -10647,6 +10714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-05-06 18:17:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-05-06 17:21:29 +0000"
@@ -10662,6 +10735,12 @@
   "iceandfire:recipes/combat/armor_blue_boots": {
     "criteria": {
       "has_item": "2025-05-06 18:11:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-05-06 18:41:38 +0000"
     },
     "done": true
   },
@@ -10695,9 +10774,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-05-06 18:17:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_chestplate": {
     "criteria": {
       "has_item": "2025-05-06 18:11:29 +0000"
+    },
+    "done": true
+  },
+  "dragonfinder:dragonfinder/dragon_eye": {
+    "criteria": {
+      "bestiary": "2025-05-06 18:31:30 +0000"
     },
     "done": true
   },
@@ -10737,15 +10828,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-05-06 18:36:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-05-06 17:21:29 +0000"
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-06 18:19:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-05-06 18:36:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-05-06 17:21:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-05-06 18:36:33 +0000"
     },
     "done": true
   },
@@ -10776,6 +10891,12 @@
   "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
       "has_prismarine": "2025-05-06 17:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-05-06 18:55:53 +0000"
     },
     "done": true
   },
@@ -10818,6 +10939,12 @@
   "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-06 17:22:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-05-06 18:36:33 +0000"
     },
     "done": true
   },

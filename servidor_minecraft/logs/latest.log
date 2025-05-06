@@ -982,3 +982,124 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [06May2025 18:17:34.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
 [06May2025 18:17:34.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
 [06May2025 18:19:16.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [They Have a Cave Troll!]
+[06May2025 18:27:21.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:53865] logged in with entity id 25058 at (-1186.9346939070551, 116.0, -5230.755509285373)
+[06May2025 18:27:21.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[06May2025 18:27:21.456] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[06May2025 18:27:28.403] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25232, l='ServerLevel[world]', x=-1264.28, y=78.00, z=-5058.37] died, message: 'Unemployed suffocated in a wall'
+[06May2025 18:27:28.404] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25233, l='ServerLevel[world]', x=-1264.42, y=76.00, z=-5057.56] died, message: 'Unemployed suffocated in a wall'
+[06May2025 18:27:49.803] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1243, y=-52, z=-5001}
+[06May2025 18:28:45.291] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1322, y=-19, z=-4879}
+[06May2025 18:28:57.797] [Worker-Main-29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1002, y=43, z=-4895}
+[06May2025 18:28:57.798] [Worker-Main-29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1001, y=43, z=-4895}
+[06May2025 18:28:57.798] [Worker-Main-29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1001, y=43, z=-4895}
+[06May2025 18:28:57.798] [Worker-Main-29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1002, y=43, z=-4895}
+[06May2025 18:28:57.798] [Worker-Main-29/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-1002, 43, -4895)
+[06May2025 18:29:00.652] [Worker-Main-49/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1184, y=32, z=-4826}
+[06May2025 18:29:24.299] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1116, y=30, z=-4714}
+[06May2025 18:29:58.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! 1.491321228877041,-1.1793106979709478,9.989539512177544
+[06May2025 18:29:58.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4001ms or 80 ticks behind
+[06May2025 18:30:00.240] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1327, y=8, z=-4520}
+[06May2025 18:31:30.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Find them all]
+[06May2025 18:32:12.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! 3.882465766203495,7.759503915022734,5.2241819775827025
+[06May2025 18:32:12.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! 0.8788072640313658,-1.8843980532666933,10.128720365756635
+[06May2025 18:33:07.400] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-705, y=39, z=-4527}
+[06May2025 18:35:07.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Find them all]
+[06May2025 18:35:40.779] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1618, y=-10, z=-4291}
+[06May2025 18:35:40.779] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1618, y=-10, z=-4292}
+[06May2025 18:39:51.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ivii[/127.1.114.128:49097] logged in with entity id 31313 at (560.2774108662445, 130.0, -954.3638300683193)
+[06May2025 18:39:51.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii joined the game
+[06May2025 18:39:51.420] [Server thread/INFO] [Jade/]: Syncing config to ivii (7cdb0d64-19f0-3c6c-95d6-c3907a315282)
+[06May2025 18:39:57.436] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=356, y=-37, z=-1069}
+[06May2025 18:42:39.758] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=226, y=-9, z=-1069}
+[06May2025 18:44:03.740] [Worker-Main-36/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-23, y=27, z=-1058}
+[06May2025 18:44:03.748] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-22, y=27, z=-1056}
+[06May2025 18:44:41.140] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1296, y=7, z=-4224}
+[06May2025 18:44:41.140] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1295, y=7, z=-4223}
+[06May2025 18:44:53.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -3.396274106972214,-10.451758450684437,-0.04483519989571505
+[06May2025 18:44:53.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -8.310327229660288,-2.236255627908619,-5.3408008729238645
+[06May2025 18:44:53.798] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1710, y=0, z=-1701}
+[06May2025 18:44:53.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3939ms or 78 ticks behind
+[06May2025 18:44:55.354] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1791, y=-45, z=-4605}
+[06May2025 18:44:55.354] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1792, y=-45, z=-4605}
+[06May2025 18:44:56.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -3.5148404273759297,-9.930837390124566,0.8689926221895803
+[06May2025 18:44:56.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -4.675349724295074,8.708833913339944,4.01475393040073
+[06May2025 18:45:08.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! 6.490377663104027,8.101512713888397,-0.638782724399789
+[06May2025 18:46:16.565] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=0, y=30, z=-1303}
+[06May2025 18:46:41.947] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=20, y=-44, z=-1347}
+[06May2025 18:47:38.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Herc was on a Roll!]
+[06May2025 18:47:45.292] [Worker-Main-49/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1814, y=-30, z=-4191}
+[06May2025 18:47:52.801] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1404, y=-48, z=-4174}
+[06May2025 18:47:56.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -5.147758447929618,8.591670963207505,-1.3736043358549068
+[06May2025 18:48:01.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -6.212313223328238,8.101604694925996,-1.4517940957903193
+[06May2025 18:48:12.321] [Worker-Main-36/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1888, y=28, z=-4565}
+[06May2025 18:48:38.148] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1484, y=37, z=-4128}
+[06May2025 18:48:38.148] [Worker-Main-29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1485, y=37, z=-4130}
+[06May2025 18:48:59.205] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2029, y=-26, z=-4179}
+[06May2025 18:49:26.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -6.221009232094957,6.536703949717861,-5.082878095214255
+[06May2025 18:49:26.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -7.857152504810074,-5.979329965305567,-3.4605403148443656
+[06May2025 18:49:26.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivii moved too quickly! -0.024791529519518463,1.8232407249357578,-9.856861735609755
+[06May2025 18:49:26.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3806ms or 76 ticks behind
+[06May2025 18:49:28.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -9.605080324820392,3.51424089125544,0.10762715092459985
+[06May2025 18:49:28.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -8.186961415899304,5.948303957728726,0.49556587466395285
+[06May2025 18:49:32.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -8.739665344588502,2.103394523355533,-4.59413111219601
+[06May2025 18:50:19.306] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2145, y=-2, z=-4087}
+[06May2025 18:50:39.157] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-542, y=-35, z=-1181}
+[06May2025 18:50:47.789] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2400, y=-8, z=-4131}
+[06May2025 18:50:47.789] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2400, y=-8, z=-4132}
+[06May2025 18:50:56.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -8.938808182830144,4.808616677196113,1.4308946551564077
+[06May2025 18:50:56.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! 3.1033900420775353,5.498448660898774,-7.832103625810305
+[06May2025 18:50:56.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivii moved too quickly! -8.491551219087398,0.16615329043402483,-5.368762173170353
+[06May2025 18:50:56.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5445ms or 108 ticks behind
+[06May2025 18:51:01.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -1.1430179232797855,9.0,-4.827180378086268
+[06May2025 18:51:01.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -8.949970371056224,-3.862572224680278,-3.210371277554259
+[06May2025 18:51:28.763] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2628, y=29, z=-4551}
+[06May2025 18:51:43.049] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2712, y=-32, z=-4391}
+[06May2025 18:51:43.050] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2714, y=-32, z=-4391}
+[06May2025 18:51:53.953] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2724, y=6, z=-4331}
+[06May2025 18:51:59.749] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2743, y=-4, z=-4385}
+[06May2025 18:52:21.813] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-514, y=-8, z=-993}
+[06May2025 18:52:26.451] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2579, y=6, z=-4153}
+[06May2025 18:52:26.451] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2579, y=6, z=-4154}
+[06May2025 18:52:58.941] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/42139, l='ServerLevel[world]', x=-2620.49, y=73.00, z=-4188.51] died, message: 'Unemployed suffocated in a wall'
+[06May2025 18:53:16.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[06May2025 18:53:17.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Rocks Off!]
+[06May2025 18:54:43.938] [Worker-Main-29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2224, y=-24, z=-4033}
+[06May2025 18:54:54.714] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2721, y=-7, z=-4530}
+[06May2025 18:55:06.362] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-179, y=-14, z=-1577}
+[06May2025 18:55:24.341] [Worker-Main-48/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-658, y=-19, z=-1354}
+[06May2025 18:56:20.558] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-810, y=-34, z=-1399}
+[06May2025 18:56:49.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
+[06May2025 18:57:13.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 18:57:23.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
+[06May2025 18:57:42.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 18:57:58.488] [Worker-Main-29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1090, y=-15, z=-1505}
+[06May2025 18:57:58.497] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1080, y=-3, z=-1499}
+[06May2025 18:57:58.497] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1080, y=-3, z=-1500}
+[06May2025 18:58:07.680] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-908, y=-52, z=-1705}
+[06May2025 18:58:07.683] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-907, y=-52, z=-1705}
+[06May2025 18:58:08.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
+[06May2025 18:58:19.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 18:58:25.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
+[06May2025 18:58:35.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 18:58:37.425] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-960, y=-33, z=-1318}
+[06May2025 18:58:37.465] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-963, y=-33, z=-1317}
+[06May2025 18:58:38.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
+[06May2025 18:59:03.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 18:59:06.403] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1064, y=-42, z=-1806}
+[06May2025 18:59:06.403] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1066, y=-42, z=-1806}
+[06May2025 18:59:08.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
+[06May2025 18:59:10.441] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-867, y=-1, z=-1811}
+[06May2025 18:59:15.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 18:59:27.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
+[06May2025 18:59:42.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 18:59:48.151] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1075, y=3, z=-1944}
+[06May2025 18:59:48.152] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1075, y=3, z=-1945}
+[06May2025 18:59:48.152] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1068, y=-9, z=-1944}
+[06May2025 18:59:52.411] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1067, y=-9, z=-1967}
+[06May2025 19:00:56.938] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-757, y=-40, z=-1991}
+[06May2025 19:01:15.023] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-711, y=-18, z=-1756}
+[06May2025 19:01:15.024] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-713, y=-18, z=-1756}
+[06May2025 19:01:19.501] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-699, y=-41, z=-1741}
+[06May2025 19:01:19.501] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-700, y=-41, z=-1741}
+[06May2025 19:01:30.507] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-684, y=-41, z=-1833}
+[06May2025 19:01:53.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
