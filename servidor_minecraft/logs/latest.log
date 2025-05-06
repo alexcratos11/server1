@@ -277,3 +277,31 @@
 [06May2025 01:50:35.929] [Server thread/INFO] [tombstone/]: The player aaleexx17 has successfully been saved
 [06May2025 01:50:38.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 froze to death
 [06May2025 01:50:38.933] [Server thread/INFO] [tombstone/]: The player aaleexx17 has successfully been saved
+[06May2025 01:54:41.384] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1260, y=26, z=-1553}
+[06May2025 01:55:41.732] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1204, y=33, z=-1997}
+[06May2025 01:56:05.790] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1115, y=-3, z=-2108}
+[06May2025 01:56:05.790] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1115, y=-3, z=-2109}
+[06May2025 01:57:16.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! 9.096485975268479,4.307413803162632,-0.7446763718884881
+[06May2025 01:57:16.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivii moved too quickly! -5.186394861165468,-2.9000280353656933,-8.061210220472276
+[06May2025 01:57:16.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5052ms or 101 ticks behind
+[06May2025 02:01:22.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivii moved too quickly! -6.195815652274064,-4.705603699129313,-6.364014175937427
+[06May2025 02:01:22.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! 1.0032888869732233,-9.964159374955443,1.9133477074992697
+[06May2025 02:01:22.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5168ms or 103 ticks behind
+[06May2025 02:04:32.771] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=667, y=-40, z=-2647}
+[06May2025 02:04:32.771] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=666, y=-40, z=-2647}
+[06May2025 02:04:40.304] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=855, y=34, z=-2462}
+[06May2025 02:04:40.305] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=855, y=34, z=-2461}
+[06May2025 02:05:47.101] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=515, y=-43, z=-2781}
+[06May2025 02:05:48.713] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=689, y=-3, z=-2772}
+[06May2025 02:05:49.398] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=455, y=18, z=-2774}
+[06May2025 02:05:59.633] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=423, y=-54, z=-2807}
+[06May2025 02:08:06.143] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-18, y=-42, z=-3080}
+[06May2025 02:08:06.143] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-18, y=-42, z=-3079}
+[06May2025 02:09:40.048] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-292, y=8, z=-3061}
+[06May2025 02:09:40.048] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-291, y=8, z=-3061}
+[06May2025 02:10:12.201] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-237, y=23, z=-3151}
+[06May2025 02:10:12.202] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-237, y=23, z=-3152}
+[06May2025 02:10:14.785] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-393, y=38, z=-3111}
+[06May2025 02:10:14.785] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-393, y=38, z=-3113}
+[06May2025 02:11:39.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Timed out
+[06May2025 02:11:39.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
