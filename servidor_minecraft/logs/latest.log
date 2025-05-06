@@ -897,3 +897,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [06May2025 03:06:35.926] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [06May2025 03:22:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Elenitive a server operator
 [06May2025 03:22:41.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[06May2025 03:57:04.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 03:57:11.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]

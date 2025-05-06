@@ -10103,6 +10103,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-05-06 03:50:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-06 03:50:24 +0000"
+    },
+    "done": true
+  },
   "material_elements:recipes/brewing/test_tube_color_yellow_from_yellow_dye": {
     "criteria": {
       "has_dye": "2025-05-06 03:24:41 +0000"
@@ -10130,6 +10142,18 @@
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2025-05-06 03:26:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-05-06 03:50:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-05-06 03:50:24 +0000"
     },
     "done": true
   },
@@ -10220,6 +10244,12 @@
   "material_elements:recipes/brewing/test_tube_color_gray_from_gray_dye": {
     "criteria": {
       "has_dye": "2025-05-06 03:24:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-05-06 03:50:24 +0000"
     },
     "done": true
   },
