@@ -10454,6 +10454,12 @@
     },
     "done": true
   },
+  "material_elements:recipes/brewing/test_tube_color_green_from_green_dye": {
+    "criteria": {
+      "has_dye": "2025-05-06 18:02:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-06 17:22:21 +0000"
@@ -10502,6 +10508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-05-06 18:02:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-05-06 17:21:29 +0000"
@@ -10538,9 +10550,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 17:57:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-06 17:22:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 17:57:46 +0000"
     },
     "done": true
   },
@@ -10568,6 +10592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 18:02:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2025-05-06 17:22:27 +0000"
@@ -10577,6 +10607,24 @@
   "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-06 17:22:21 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/leather/leather_strip_red_from_red_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-06 17:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 18:02:36 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/brewing/test_tube_color_red_from_red_dye": {
+    "criteria": {
+      "has_dye": "2025-05-06 17:57:46 +0000"
     },
     "done": true
   },
@@ -10628,6 +10676,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 17:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 18:02:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-06 17:22:21 +0000"
@@ -10655,6 +10715,12 @@
   "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-05-06 17:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-05-06 17:57:46 +0000"
     },
     "done": true
   },
