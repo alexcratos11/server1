@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "2220527c-f40a-3f64-a9d3-9d22926aa118",
+    "name": "Elenitive",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
