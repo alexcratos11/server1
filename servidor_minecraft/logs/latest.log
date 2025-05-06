@@ -915,3 +915,102 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [06May2025 21:59:45.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [The Secret Ingredient]
 [06May2025 22:00:10.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set aaleexx17's game mode to Survival Mode]
 [06May2025 22:00:20.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Spear Mint]
+[06May2025 22:01:28.981] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2009, y=-10, z=-4947}
+[06May2025 22:02:51.207] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1892, y=-50, z=-5023}
+[06May2025 22:03:39.657] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1862, y=-21, z=-4706}
+[06May2025 22:03:54.404] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1847, y=21, z=-4656}
+[06May2025 22:05:08.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -7.810991913253929,5.681512727001419,3.098883922069035
+[06May2025 22:05:09.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! 10.212458992825077,2.524572115687249,1.3202025687687637
+[06May2025 22:05:09.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6062ms or 121 ticks behind
+[06May2025 22:05:25.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! 7.988400053143778,6.168670587724748,-1.672195597548125
+[06May2025 22:05:25.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! 9.428011232804238,-0.7358406727282727,-3.3351004337800987
+[06May2025 22:05:26.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[06May2025 22:05:27.052] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1602, y=-32, z=-4952}
+[06May2025 22:05:27.052] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1601, y=-32, z=-4952}
+[06May2025 22:07:31.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -3.2475449729749926,-9.501386718836535,1.0355492750886697
+[06May2025 22:07:31.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -3.3636206960968593,-5.0667829049107524,-8.065033319950999
+[06May2025 22:07:37.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [They Have a Cave Troll!]
+[06May2025 22:10:32.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -8.118081310841262,-4.7102953073086695,-4.141584163324296
+[06May2025 22:10:32.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -5.442470639105522,-6.430169950305697,-6.113949995687108
+[06May2025 22:10:32.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7714ms or 154 ticks behind
+[06May2025 22:10:41.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -4.164013221745336,3.8662435085360585,-8.767036504414136
+[06May2025 22:10:41.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -7.819374554804426,5.079092434599417,3.9841838285165068
+[06May2025 22:11:38.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -7.729617320446323,-7.122435202163672,0.2432125460336465
+[06May2025 22:11:38.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -7.422150680396044,4.8414041614384615,5.112522512761643
+[06May2025 22:11:38.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8002ms or 160 ticks behind
+[06May2025 22:18:51.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -8.987709691057717,3.607457239032499,-4.68343866115174
+[06May2025 22:18:51.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2681ms or 53 ticks behind
+[06May2025 22:20:04.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! 0.0691523763503028,7.853271985017159,-6.404115186595845
+[06May2025 22:20:04.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
+[06May2025 22:21:39.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -5.735648252713418,-2.0,8.030498508326673
+[06May2025 22:21:39.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3493, y=66, z=-4969} BlockPos{x=-3492, y=65, z=-4967}
+[06May2025 22:21:39.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10173ms or 203 ticks behind
+[06May2025 22:21:45.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3493, y=59, z=-4967} BlockPos{x=-3493, y=56, z=-4966}
+[06May2025 22:22:56.221] [Server thread/INFO] [net.heyimamethyst.fairyfactions.FairyFactions/]: disband: : Honey-poof (lost its team)
+[06May2025 22:26:50.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aaleexx17> t
+[06May2025 22:28:18.965] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@27ed5bc0, suppressing error
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23281!/:0.1.1]
+	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
+	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[06May2025 22:30:10.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Timed out
+[06May2025 22:30:10.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[06May2025 22:30:41.251] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:46779] logged in with entity id 27940 at (514.8582557271714, 84.0, -1309.2779096434892)
+[06May2025 22:30:41.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[06May2025 22:30:41.283] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[06May2025 22:33:18.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [No Slime No Service]
+[06May2025 22:34:32.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 was kicked for floating too long!
+[06May2025 22:34:32.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Flying is not enabled on this server
+[06May2025 22:34:32.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[06May2025 22:35:07.844] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:39449] logged in with entity id 31561 at (624.4934217667476, 108.3415813724527, -1287.3474394615987)
+[06May2025 22:35:07.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[06May2025 22:35:07.887] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[06May2025 22:35:17.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 was kicked for floating too long!
+[06May2025 22:35:17.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Flying is not enabled on this server
+[06May2025 22:35:17.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[06May2025 22:35:54.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:34937] logged in with entity id 32176 at (624.4934217667476, 108.3415813724527, -1287.3474394615987)
+[06May2025 22:35:54.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[06May2025 22:35:54.791] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[06May2025 22:36:04.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 was kicked for floating too long!
+[06May2025 22:36:04.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Flying is not enabled on this server
+[06May2025 22:36:04.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[06May2025 22:36:13.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:56851] logged in with entity id 32740 at (624.4934217667476, 108.3415813724527, -1287.3474394615987)
+[06May2025 22:36:13.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[06May2025 22:36:13.334] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[06May2025 22:36:23.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 was kicked for floating too long!
+[06May2025 22:36:23.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Flying is not enabled on this server
+[06May2025 22:36:23.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[06May2025 22:36:35.140] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:55375] logged in with entity id 33236 at (624.4934217667476, 104.99531099004129, -1287.3474394615987)
+[06May2025 22:36:35.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[06May2025 22:36:35.181] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[06May2025 22:36:40.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -0.01701709647750249,6.551368010718349,8.323316767468896
+[06May2025 22:36:40.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2548ms or 50 ticks behind
+[06May2025 22:42:57.583] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
+[06May2025 22:42:57.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
