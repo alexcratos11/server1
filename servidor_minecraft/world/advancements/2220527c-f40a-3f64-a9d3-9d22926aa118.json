@@ -9929,6 +9929,12 @@
     },
     "done": true
   },
+  "material_elements:recipes/leather/leather_strip_black_from_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-06 03:32:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_pink_dye": "2025-05-06 03:25:31 +0000"
@@ -10007,6 +10013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 03:32:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_candle": {
     "criteria": {
       "has_gray_dye": "2025-05-06 03:24:04 +0000"
@@ -10031,6 +10043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 03:32:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_candle": {
     "criteria": {
       "has_cyan_dye": "2025-05-06 03:27:13 +0000"
@@ -10043,6 +10061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 03:38:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_gray_dye": "2025-05-06 03:24:04 +0000"
@@ -10052,6 +10076,12 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2025-05-06 03:24:41 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/brewing/test_tube_color_black_from_black_dye": {
+    "criteria": {
+      "has_dye": "2025-05-06 03:32:18 +0000"
     },
     "done": true
   },
@@ -10070,6 +10100,12 @@
   "minecraft:recipes/building_blocks/dye_yellow_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-06 03:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-05-06 03:38:35 +0000"
     },
     "done": true
   },
@@ -10106,6 +10142,12 @@
   "minecraft:recipes/decorations/orange_candle": {
     "criteria": {
       "has_orange_dye": "2025-05-06 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 03:38:35 +0000"
     },
     "done": true
   },
@@ -10166,6 +10208,12 @@
   "material_elements:recipes/brewing/test_tube_color_gray_from_gray_dye": {
     "criteria": {
       "has_dye": "2025-05-06 03:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 03:38:35 +0000"
     },
     "done": true
   },
@@ -10268,6 +10316,24 @@
   "material_elements:recipes/brewing/test_tube_color_blue_from_blue_dye": {
     "criteria": {
       "has_dye": "2025-05-06 03:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-05-06 03:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 03:32:18 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/brewing/test_tube_color_light_gray_from_light_gray_dye": {
+    "criteria": {
+      "has_dye": "2025-05-06 03:38:35 +0000"
     },
     "done": true
   },
