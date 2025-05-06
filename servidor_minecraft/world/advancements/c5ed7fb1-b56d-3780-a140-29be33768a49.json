@@ -8173,15 +8173,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-05 20:31:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-05-05 20:52:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
-      "has_wood_slab": "2025-05-05 20:31:01 +0000"
+      "has_item": "2025-05-06 16:42:44 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-05-06 16:43:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-05-06 16:42:44 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-05-06 16:42:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-05-06 16:42:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-05-06 16:42:44 +0000"
     },
     "done": true
   },

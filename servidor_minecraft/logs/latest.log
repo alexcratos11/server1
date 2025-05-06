@@ -930,3 +930,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [06May2025 16:30:22.187] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=719, y=37, z=-1482}
 [06May2025 16:32:16.218] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=727, y=-28, z=-1525}
 [06May2025 16:32:16.219] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=727, y=-28, z=-1524}
+[06May2025 16:38:25.089] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.181.27.77:52119] logged in with entity id 1996 at (1049.937019861252, 63.0, 341.94905521671876)
+[06May2025 16:38:25.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[06May2025 16:38:25.155] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
+[06May2025 16:38:33.975] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1156, y=30, z=239}
+[06May2025 16:38:43.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2971ms or 59 ticks behind
+[06May2025 16:38:52.444] [Worker-Main-26/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1249, y=-37, z=295}
+[06May2025 16:38:56.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aaleexx17> si quieres puedes estar en llamada bro
+[06May2025 16:39:00.646] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=858, y=-42, z=216}
+[06May2025 16:39:00.647] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=856, y=-42, z=216}
+[06May2025 16:39:14.134] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=837, y=-15, z=468}
+[06May2025 16:41:05.148] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elenitive[/127.60.88.4:54727] logged in with entity id 3389 at (504.6164138172021, 94.0, -1297.4362275970427)
+[06May2025 16:41:05.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive joined the game
+[06May2025 16:41:05.316] [Server thread/INFO] [Jade/]: Syncing config to Elenitive (2220527c-f40a-3f64-a9d3-9d22926aa118)
+[06May2025 16:42:13.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[06May2025 16:42:42.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Bonk!]
+[06May2025 16:42:59.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> Hey
+[06May2025 16:43:04.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darkblader69> hola
+[06May2025 16:43:36.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set aaleexx17's game mode to Creative Mode]
