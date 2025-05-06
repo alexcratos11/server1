@@ -9392,5 +9392,41 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/dog_christmas_tree": {
+    "criteria": {
+      "has_training_treat_dtn": "2025-05-06 16:50:41 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/christmas_hat": {
+    "criteria": {
+      "has_training_treat_dtn": "2025-05-06 16:50:41 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/scent_treat": {
+    "criteria": {
+      "has_dtn_training_treat": "2025-05-06 16:50:41 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/dog_christmas_star": {
+    "criteria": {
+      "has_training_treat_dtn": "2025-05-06 16:50:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-05-06 16:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-06 16:53:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
