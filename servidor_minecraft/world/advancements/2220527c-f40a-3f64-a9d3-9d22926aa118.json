@@ -117,6 +117,7 @@
       "minecraft:stony_shore": "2025-05-04 03:10:30 +0000",
       "minecraft:dripstone_caves": "2025-05-03 22:09:01 +0000",
       "minecraft:grove": "2025-05-02 16:36:11 +0000",
+      "minecraft:jagged_peaks": "2025-05-06 04:08:55 +0000",
       "minecraft:cold_ocean": "2025-05-05 23:45:23 +0000",
       "minecraft:forest": "2025-05-02 16:32:22 +0000",
       "minecraft:lush_caves": "2025-05-04 03:46:04 +0000",
@@ -9941,6 +9942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-05-06 04:03:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_pink_dye": "2025-05-06 03:25:31 +0000"
@@ -10199,6 +10206,12 @@
     },
     "done": true
   },
+  "material_elements:recipes/brewing/test_tube_color_purble_from_purple_dye": {
+    "criteria": {
+      "has_dye": "2025-05-06 04:03:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-05-06 03:27:19 +0000"
@@ -10253,9 +10266,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 04:03:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-06 03:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 04:03:46 +0000"
     },
     "done": true
   },
@@ -10274,6 +10299,12 @@
   "minecraft:recipes/building_blocks/dye_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-06 03:24:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-06 04:07:58 +0000"
     },
     "done": true
   },
@@ -10298,6 +10329,12 @@
   "minecraft:recipes/building_blocks/dye_light_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-06 03:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-06 04:03:46 +0000"
     },
     "done": true
   },
