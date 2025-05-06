@@ -100,6 +100,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-05-03 01:58:15 +0000",
+      "minecraft:mushroom_fields": "2025-05-05 23:47:47 +0000",
       "minecraft:taiga": "2025-05-02 16:09:59 +0000",
       "minecraft:deep_ocean": "2025-05-04 03:49:49 +0000",
       "minecraft:frozen_river": "2025-05-02 16:27:26 +0000",
@@ -117,6 +118,7 @@
       "minecraft:cold_ocean": "2025-05-02 22:03:34 +0000",
       "minecraft:forest": "2025-05-02 15:45:52 +0000",
       "minecraft:lush_caves": "2025-05-04 03:41:25 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-06 00:50:06 +0000",
       "minecraft:ocean": "2025-05-02 21:24:32 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-03 17:55:34 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-02 21:30:22 +0000",
@@ -3678,7 +3680,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-05-06 00:08:05 +0000",
+      "minecraft:pillager": "2025-05-06 00:36:26 +0000",
       "minecraft:skeleton": "2025-05-02 16:59:33 +0000",
+      "minecraft:vindicator": "2025-05-06 00:24:05 +0000",
       "minecraft:magma_cube": "2025-05-04 14:30:30 +0000",
       "minecraft:spider": "2025-05-02 22:29:26 +0000",
       "minecraft:piglin_brute": "2025-05-04 01:34:38 +0000",
@@ -7617,7 +7622,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-05-04 14:28:13 +0000",
-      "minecraft:warped_forest": "2025-05-04 01:29:20 +0000"
+      "minecraft:warped_forest": "2025-05-04 01:29:20 +0000",
+      "minecraft:basalt_deltas": "2025-05-06 00:06:38 +0000"
     },
     "done": false
   },
@@ -8968,6 +8974,180 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-05-05 23:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-05-05 23:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-06 00:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-06 00:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-06 00:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-06 00:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-06 00:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-06 00:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-06 00:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-06 00:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-06 00:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-06 00:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-06 00:22:11 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/blazing_hootnip": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-06 00:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-06 00:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-06 00:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-05-06 00:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-06 00:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-06 00:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-06 00:27:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-05-06 00:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-06 00:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-06 00:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-06 00:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-06 00:27:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-05-06 00:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-06 00:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-06 00:27:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-06 00:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-06 00:38:01 +0000"
     },
     "done": true
   },

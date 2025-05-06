@@ -63,9 +63,11 @@
     "criteria": {
       "woodland": "2025-05-04 04:31:53 +0000",
       "shrubland": "2025-05-02 16:13:10 +0000",
+      "snowblossom_grove": "2025-05-05 23:54:35 +0000",
       "rocky_shrubland": "2025-05-02 21:40:26 +0000",
       "scrubland": "2025-05-02 16:12:10 +0000",
       "fungal_jungle": "2025-05-05 21:56:09 +0000",
+      "erupting_inferno": "2025-05-06 00:06:02 +0000",
       "floodplain": "2025-05-04 04:23:16 +0000",
       "highland": "2025-05-02 17:58:17 +0000",
       "jacaranda_glade": "2025-05-02 21:56:35 +0000",
@@ -78,8 +80,10 @@
       "overgrown_greens": "2025-05-02 16:37:55 +0000",
       "coniferous_forest": "2025-05-03 02:23:04 +0000",
       "spider_nest": "2025-05-02 16:57:58 +0000",
+      "old_growth_dead_forest": "2025-05-05 23:54:45 +0000",
       "redwood_forest": "2025-05-02 16:48:56 +0000",
       "visceral_heap": "2025-05-04 01:25:09 +0000",
+      "aspen_glade": "2025-05-05 23:46:09 +0000",
       "dune_beach": "2025-05-03 17:42:26 +0000",
       "seasonal_forest": "2025-05-03 18:24:58 +0000",
       "volcano": "2025-05-04 04:05:45 +0000",
@@ -88,9 +92,11 @@
       "volcanic_plains": "2025-05-02 19:23:03 +0000",
       "lavender_field": "2025-05-02 21:56:29 +0000",
       "fir_clearing": "2025-05-03 02:35:57 +0000",
+      "pumpkin_patch": "2025-05-05 23:53:30 +0000",
       "grassland": "2025-05-02 12:29:40 +0000",
       "prairie": "2025-05-02 16:32:49 +0000",
       "glowing_grotto": "2025-05-04 04:10:07 +0000",
+      "gravel_beach": "2025-05-05 23:46:02 +0000",
       "rainforest": "2025-05-02 19:22:37 +0000",
       "crag": "2025-05-03 23:00:54 +0000"
     },
@@ -111,8 +117,10 @@
       "minecraft:stony_shore": "2025-05-04 03:10:30 +0000",
       "minecraft:dripstone_caves": "2025-05-03 22:09:01 +0000",
       "minecraft:grove": "2025-05-02 16:36:11 +0000",
+      "minecraft:cold_ocean": "2025-05-05 23:45:23 +0000",
       "minecraft:forest": "2025-05-02 16:32:22 +0000",
       "minecraft:lush_caves": "2025-05-04 03:46:04 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-05 23:45:18 +0000",
       "minecraft:ocean": "2025-05-02 19:25:24 +0000",
       "minecraft:jungle": "2025-05-04 04:14:06 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-04 04:17:47 +0000",
@@ -1389,13 +1397,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-03 18:21:24 +0000",
+      "minecraft:blaze": "2025-05-06 00:17:36 +0000",
       "minecraft:skeleton": "2025-05-02 16:36:25 +0000",
+      "minecraft:ravager": "2025-05-06 00:37:56 +0000",
+      "minecraft:hoglin": "2025-05-06 00:09:46 +0000",
+      "minecraft:vindicator": "2025-05-06 00:23:20 +0000",
+      "minecraft:magma_cube": "2025-05-06 00:34:14 +0000",
       "minecraft:spider": "2025-05-02 17:12:04 +0000",
       "minecraft:piglin_brute": "2025-05-04 01:32:49 +0000",
       "minecraft:creeper": "2025-05-02 16:40:50 +0000",
       "minecraft:witch": "2025-05-03 23:12:41 +0000",
       "minecraft:wither_skeleton": "2025-05-02 17:49:22 +0000",
       "minecraft:cave_spider": "2025-05-02 17:34:00 +0000",
+      "minecraft:piglin": "2025-05-06 00:10:11 +0000",
       "minecraft:silverfish": "2025-05-02 17:34:20 +0000",
       "minecraft:stray": "2025-05-02 17:32:22 +0000",
       "minecraft:enderman": "2025-05-02 22:52:25 +0000",
@@ -6003,8 +6017,10 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:white": "2025-05-05 23:04:19 +0000",
+      "minecraft:calico": "2025-05-05 23:48:24 +0000",
       "minecraft:siamese": "2025-05-05 23:09:19 +0000",
-      "minecraft:jellie": "2025-05-03 02:43:59 +0000"
+      "minecraft:jellie": "2025-05-03 02:43:59 +0000",
+      "minecraft:red": "2025-05-05 23:27:44 +0000"
     },
     "done": false
   },
@@ -7324,7 +7340,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:warped_forest": "2025-05-04 01:25:24 +0000"
+      "minecraft:crimson_forest": "2025-05-06 00:08:46 +0000",
+      "minecraft:nether_wastes": "2025-05-06 00:07:07 +0000",
+      "minecraft:warped_forest": "2025-05-04 01:25:24 +0000",
+      "minecraft:basalt_deltas": "2025-05-06 00:06:46 +0000"
     },
     "done": false
   },
@@ -9305,6 +9324,330 @@
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2025-05-05 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-06 00:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-05 23:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-06 00:17:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-05-05 23:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-06 00:37:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-05-06 00:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-06 00:06:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-06 00:24:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-06 00:06:17 +0000"
+    },
+    "done": true
+  },
+  "mekanism:hydrogen_powered_flight": {
+    "criteria": {
+      "jetpack": "2025-05-05 23:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-06 00:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-06 00:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-05 23:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-06 00:06:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-05 23:50:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-05-05 23:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-05-06 00:22:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2025-05-05 23:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-06 00:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-05-06 00:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-06 00:30:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-05-05 23:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-05-06 00:11:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-05-05 23:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-05 23:37:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-05-06 00:11:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-05 23:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-06 00:09:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-05 23:37:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-05-05 23:56:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2025-05-05 23:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-06 00:18:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-06 00:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-06 00:22:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-05 23:37:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-05-05 23:58:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-05-06 00:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-05 23:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-05 23:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-06 00:38:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-05-06 00:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-06 00:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-06 00:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-06 00:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-06 00:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-06 00:25:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-05-05 23:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-05-06 00:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-06 00:17:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-05 23:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-06 00:25:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-05-06 00:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-06 00:17:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-05-06 00:08:24 +0000"
     },
     "done": true
   },
