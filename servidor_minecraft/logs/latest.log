@@ -1014,3 +1014,20 @@ java.util.NoSuchElementException: No value present
 [06May2025 22:36:40.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2548ms or 50 ticks behind
 [06May2025 22:42:57.583] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
 [06May2025 22:42:57.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[06May2025 22:53:41.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:37265] logged in with entity id 42450 at (-3492.4475150130284, 44.0, -4911.789074614436)
+[06May2025 22:53:41.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[06May2025 22:53:41.169] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[06May2025 22:53:50.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -8.172355456213154,5.567952881898719,3.2435388467938537
+[06May2025 22:53:50.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9431ms or 188 ticks behind
+[06May2025 22:53:53.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -8.977315385503971,0.8726964999635953,5.57481128096515
+[06May2025 22:54:37.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2642ms or 52 ticks behind
+[06May2025 22:54:37.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -3.277197793004234,9.617830491334047,-0.20658401980654162
+[06May2025 22:56:20.235] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06May2025 22:56:26.788] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06May2025 22:57:29.604] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06May2025 22:57:49.267] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/46373, l='ServerLevel[world]', x=-7674.50, y=39.00, z=-5220.50]
+[06May2025 23:09:32.895] [Server thread/WARN] [tombstone/]: The death event of the player Elenitive was canceled by another mod
+[06May2025 23:09:32.915] [Server thread/INFO] [tombstone/]: The player Elenitive has successfully been saved
+[06May2025 23:17:22.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [No Slime No Service]
+[06May2025 23:22:14.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Timed out
+[06May2025 23:22:14.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
