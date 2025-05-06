@@ -1,22 +1,22 @@
-[06May2025 16:59:55.993] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[06May2025 16:59:55.997] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[06May2025 17:00:04.606] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[06May2025 17:00:04.704] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[06May2025 17:00:05.274] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[06May2025 17:00:05.275] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06May2025 17:00:05.276] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06May2025 17:00:05.277] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06May2025 17:00:05.839] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[06May2025 17:00:05.841] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 16 dependencies adding them to mods collection
-[06May2025 17:00:09.654] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[06May2025 17:00:09.870] [main/ERROR] [mixin/]: Mixin config yuushya.mixins.json does not specify "minVersion" property
-[06May2025 17:00:09.925] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[06May2025 17:00:10.011] [main/WARN] [mixin/]: Reference map 'miniutilities.refmap.json' for miniutilities.mixins.json could not be read. If this is a development environment you can ignore this message
-[06May2025 17:00:10.020] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[06May2025 17:00:10.035] [main/WARN] [mixin/]: Reference map 'lemonlib.refmap.json' for lemonlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[06May2025 17:00:10.260] [main/WARN] [mixin/]: Reference map 'Mekanism_Extras.refmap.json' for mekanism_extras.mixins.json could not be read. If this is a development environment you can ignore this message
-[06May2025 17:00:10.308] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[06May2025 17:00:10.379] [main/INFO] [Puzzles Lib/]: Loading 87 mods:
+[06May2025 21:50:55.773] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[06May2025 21:50:55.777] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[06May2025 21:50:57.828] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[06May2025 21:50:57.884] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[06May2025 21:50:58.322] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[06May2025 21:50:58.324] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06May2025 21:50:58.325] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06May2025 21:50:58.326] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06May2025 21:50:58.692] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[06May2025 21:50:58.693] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 16 dependencies adding them to mods collection
+[06May2025 21:51:02.063] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06May2025 21:51:02.222] [main/ERROR] [mixin/]: Mixin config yuushya.mixins.json does not specify "minVersion" property
+[06May2025 21:51:02.267] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[06May2025 21:51:02.309] [main/WARN] [mixin/]: Reference map 'miniutilities.refmap.json' for miniutilities.mixins.json could not be read. If this is a development environment you can ignore this message
+[06May2025 21:51:02.314] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[06May2025 21:51:02.330] [main/WARN] [mixin/]: Reference map 'lemonlib.refmap.json' for lemonlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[06May2025 21:51:02.476] [main/WARN] [mixin/]: Reference map 'Mekanism_Extras.refmap.json' for mekanism_extras.mixins.json could not be read. If this is a development environment you can ignore this message
+[06May2025 21:51:02.503] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[06May2025 21:51:02.572] [main/INFO] [Puzzles Lib/]: Loading 87 mods:
 	- additionalstructures 4.2.2
 	- alexscaves 2.0.2
 	- alexsmobs 1.22.9
@@ -104,8 +104,8 @@
 	- trashslot 15.1.2
 	- waystones 14.1.11
 	- yuushya 2.2.2
-[06May2025 17:00:12.591] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[06May2025 17:00:13.206] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[06May2025 21:51:04.510] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[06May2025 21:51:04.879] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
 	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
@@ -135,145 +135,147 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[06May2025 17:00:20.928] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[06May2025 21:51:11.051] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[06May2025 17:00:22.183] [modloading-worker-0/INFO] [Perfect Plushies/]: Hello Forge world!
-[06May2025 17:00:22.723] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[06May2025 17:00:22.754] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[06May2025 17:00:23.303] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[06May2025 17:00:23.307] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[06May2025 17:00:23.323] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[06May2025 17:00:23.330] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[06May2025 17:00:23.331] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[06May2025 17:00:23.334] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[06May2025 17:00:23.338] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[06May2025 17:00:23.350] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[06May2025 17:00:23.481] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[06May2025 17:00:23.771] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[06May2025 17:00:23.772] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[06May2025 17:00:23.831] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalblocks:main
-[06May2025 17:00:24.444] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
-[06May2025 17:00:24.451] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
-[06May2025 17:00:24.508] [modloading-worker-0/INFO] [Material Elements/]: Thanks for using Material Elements (https://www.curseforge.com/minecraft/mc-mods/material-elements). I hope you enjoy the mod. :)
-[06May2025 17:00:24.508] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Potions ...
-[06May2025 17:00:24.513] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Blocks ...
-[06May2025 17:00:24.610] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Items ...
-[06May2025 17:00:25.758] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
-[06May2025 17:00:25.804] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
-[06May2025 17:00:25.804] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
-[06May2025 17:00:27.108] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalfences:main
-[06May2025 17:00:27.896] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[06May2025 17:00:27.968] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
-[06May2025 17:00:27.972] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
-[06May2025 17:00:27.998] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
-[06May2025 17:00:28.007] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
-[06May2025 17:00:28.013] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
-[06May2025 17:00:28.061] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_map_data
-[06May2025 17:00:28.066] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:share_waypoint
-[06May2025 17:00:28.075] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_chunk_change
-[06May2025 17:00:28.092] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:teleport_from_map
-[06May2025 17:00:28.099] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:sync_tx
-[06May2025 17:00:28.115] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:update_force_load_expiry
-[06May2025 17:00:28.119] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:server_config_request
-[06May2025 17:00:28.409] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[06May2025 17:00:28.449] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
-[06May2025 17:00:28.456] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
-[06May2025 17:00:28.458] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
-[06May2025 17:00:28.459] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
-[06May2025 17:00:28.676] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[06May2025 17:00:31.523] [modloading-worker-0/INFO] [yuushya/]: Yuushya has been loaded successfully!
-[06May2025 17:00:32.213] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 89ms
-[06May2025 17:00:32.255] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 39ms
-[06May2025 17:00:32.340] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 77ms
-[06May2025 17:00:37.608] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.sophiebun.buntsy.entity.animals.Silkbun from class net.sophiebun.buntsy.entity.animals.Hootcat
-[06May2025 17:00:37.609] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.sophiebun.buntsy.entity.animals.Silkbun from class net.sophiebun.buntsy.entity.animals.Hootcat
-[06May2025 17:00:37.609] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.sophiebun.buntsy.entity.animals.Silkbun from class net.sophiebun.buntsy.entity.animals.Hootcat
-[06May2025 17:00:37.609] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.sophiebun.buntsy.entity.animals.Silkbun from class net.sophiebun.buntsy.entity.animals.Hootcat
-[06May2025 17:00:37.637] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[06May2025 17:00:37.642] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.animal.sniffer.Sniffer from class com.mysticsbiomes.common.entity.animal.SeaOtter
-[06May2025 17:00:37.645] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.646] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.647] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.647] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.648] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.648] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.648] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.649] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.649] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.649] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.650] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.650] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.650] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.650] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.651] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.651] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.651] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.651] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:37.651] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[06May2025 17:00:38.100] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[06May2025 17:00:38.185] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.15 initializing...
-[06May2025 17:00:38.213] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
-[06May2025 17:00:38.304] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Starting version check at https://raw.githubusercontent.com/DashieDev/DoggyTalentsNext/0d05eaff7c4b588831ca6480f737187f44dda820/check_for_update/update.json
-[06May2025 17:00:38.357] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
-[06May2025 17:00:38.481] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[06May2025 17:00:38.482] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
-[06May2025 17:00:38.602] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Found status: BETA Current: 1.18.44 Target: 1.17.2
-[06May2025 17:00:38.602] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[06May2025 17:00:38.960] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[06May2025 17:00:38.962] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AdditionalStructures.json
-[06May2025 17:00:38.974] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Found status: UP_TO_DATE Current: 4.2.2 Target: null
-[06May2025 17:00:38.975] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[06May2025 17:00:38.984] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[06May2025 17:00:38.985] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[06May2025 17:00:39.390] [main/INFO] [journeymap/]: Initializing Packet Registries
-[06May2025 17:00:39.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[06May2025 17:00:39.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_piglins] Starting version check at https://update.maxhenkel.de/forge/easy_piglins
-[06May2025 17:00:39.418] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[06May2025 17:00:39.418] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[06May2025 17:00:39.418] [main/INFO] [terrablender/]: Registered region buntsy:overworld_1 to index 1 for type OVERWORLD
-[06May2025 17:00:39.450] [main/INFO] [terrablender/]: Registered region mysticsbiomes:overworld_provider to index 2 for type OVERWORLD
-[06May2025 17:00:39.453] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 3 for type OVERWORLD
-[06May2025 17:00:39.453] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 4 for type OVERWORLD
-[06May2025 17:00:39.453] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 5 for type OVERWORLD
-[06May2025 17:00:39.454] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[06May2025 17:00:39.454] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[06May2025 17:00:39.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_piglins] Found status: OUTDATED Current: 1.20.1-1.0.13 Target: 1.20.1-1.1.0
-[06May2025 17:00:39.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalblocks.json
-[06May2025 17:00:39.536] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Found status: BETA Current: 8.0.5 Target: null
-[06May2025 17:00:39.536] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
-[06May2025 17:00:39.563] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: OUTDATED Current: 1.20.1-1.1.23 Target: 1.20.1-1.1.27
-[06May2025 17:00:39.563] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[06May2025 17:00:39.726] [modloading-worker-0/INFO] [com.chiki.dragonfinder.DragonFinder/]: Hello world from the MDK
-[06May2025 17:00:39.726] [modloading-worker-0/INFO] [com.chiki.dragonfinder.DragonFinder/]: Got IMC [Hello world]
-[06May2025 17:00:39.799] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[06May2025 17:00:39.808] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[06May2025 17:00:39.809] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[06May2025 17:00:39.826] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10
-[06May2025 17:00:39.829] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalfences.json
-[06May2025 17:00:39.832] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[06May2025 17:00:39.836] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Found status: OUTDATED Current: 8.1.4 Target: 8.1.5
-[06May2025 17:00:39.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[06May2025 17:00:39.837] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[06May2025 17:00:39.839] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
-[06May2025 17:00:39.840] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
-[06May2025 17:00:39.842] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[06May2025 17:00:39.845] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at xfacthd.framedblocks.common.compat.jade.FramedJadePlugin
-[06May2025 17:00:39.846] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.2 Target: 8.9.4
-[06May2025 17:00:39.846] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[06May2025 17:00:39.846] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[06May2025 17:00:39.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.32
-[06May2025 17:00:53.058] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06May2025 17:01:01.450] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23247!/assets/.mcassetsroot' uses unexpected schema
-[06May2025 17:01:01.450] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23247!/data/.mcassetsroot' uses unexpected schema
-[06May2025 17:01:01.903] [main/INFO] [com.simibubi.create.Create/]: Created 778 recipes which will be injected into the game
-[06May2025 17:01:01.925] [main/INFO] [com.simibubi.create.Create/]: Created 32 tags which will be injected into the game
-[06May2025 17:01:04.517] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[06May2025 17:01:04.634] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:rich_silicon_liquid_fuel as it is missing following references: mekanism_extras:rich_silicon_liquid_fuel (from mekanism_extras-1.20.1-1.3.7.2.jar), 
+[06May2025 21:51:12.130] [modloading-worker-0/INFO] [Perfect Plushies/]: Hello Forge world!
+[06May2025 21:51:12.499] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[06May2025 21:51:12.522] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[06May2025 21:51:12.976] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[06May2025 21:51:12.982] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[06May2025 21:51:12.987] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[06May2025 21:51:12.993] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[06May2025 21:51:12.994] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[06May2025 21:51:12.995] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[06May2025 21:51:12.996] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[06May2025 21:51:13.000] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[06May2025 21:51:13.015] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[06May2025 21:51:13.263] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[06May2025 21:51:13.263] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[06May2025 21:51:13.349] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalblocks:main
+[06May2025 21:51:14.038] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[06May2025 21:51:14.041] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[06May2025 21:51:14.095] [modloading-worker-0/INFO] [Material Elements/]: Thanks for using Material Elements (https://www.curseforge.com/minecraft/mc-mods/material-elements). I hope you enjoy the mod. :)
+[06May2025 21:51:14.097] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Potions ...
+[06May2025 21:51:14.104] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Blocks ...
+[06May2025 21:51:14.182] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Items ...
+[06May2025 21:51:15.010] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[06May2025 21:51:15.010] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[06May2025 21:51:15.483] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[06May2025 21:51:16.613] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalfences:main
+[06May2025 21:51:16.997] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[06May2025 21:51:17.025] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[06May2025 21:51:17.030] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[06May2025 21:51:17.032] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[06May2025 21:51:17.033] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_map_data
+[06May2025 21:51:17.035] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:share_waypoint
+[06May2025 21:51:17.036] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[06May2025 21:51:17.040] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[06May2025 21:51:17.042] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_chunk_change
+[06May2025 21:51:17.048] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:teleport_from_map
+[06May2025 21:51:17.056] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:sync_tx
+[06May2025 21:51:17.061] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:update_force_load_expiry
+[06May2025 21:51:17.066] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:server_config_request
+[06May2025 21:51:17.282] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[06May2025 21:51:17.310] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
+[06May2025 21:51:17.316] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
+[06May2025 21:51:17.317] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
+[06May2025 21:51:17.319] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
+[06May2025 21:51:17.351] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[06May2025 21:51:19.780] [modloading-worker-0/INFO] [yuushya/]: Yuushya has been loaded successfully!
+[06May2025 21:51:20.355] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 112ms
+[06May2025 21:51:20.399] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 40ms
+[06May2025 21:51:20.485] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 80ms
+[06May2025 21:51:24.985] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.sophiebun.buntsy.entity.animals.Silkbun from class net.sophiebun.buntsy.entity.animals.Hootcat
+[06May2025 21:51:24.986] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.sophiebun.buntsy.entity.animals.Silkbun from class net.sophiebun.buntsy.entity.animals.Hootcat
+[06May2025 21:51:24.986] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.sophiebun.buntsy.entity.animals.Silkbun from class net.sophiebun.buntsy.entity.animals.Hootcat
+[06May2025 21:51:24.987] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.sophiebun.buntsy.entity.animals.Silkbun from class net.sophiebun.buntsy.entity.animals.Hootcat
+[06May2025 21:51:25.011] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[06May2025 21:51:25.013] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.animal.sniffer.Sniffer from class com.mysticsbiomes.common.entity.animal.SeaOtter
+[06May2025 21:51:25.015] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.015] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.015] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.015] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.015] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.016] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.016] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.016] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.016] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.016] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.016] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.017] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.017] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.017] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.017] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.017] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.017] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.017] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.018] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[06May2025 21:51:25.058] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/server1/servidor_minecraft/config/miniutilities-common.toml is not correct. Correcting
+[06May2025 21:51:25.181] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/server1/servidor_minecraft/config/iceandfire-common.toml is not correct. Correcting
+[06May2025 21:51:25.476] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[06May2025 21:51:25.568] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.15 initializing...
+[06May2025 21:51:25.579] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Starting version check at https://raw.githubusercontent.com/DashieDev/DoggyTalentsNext/0d05eaff7c4b588831ca6480f737187f44dda820/check_for_update/update.json
+[06May2025 21:51:25.618] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[06May2025 21:51:25.761] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
+[06May2025 21:51:25.919] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[06May2025 21:51:25.920] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[06May2025 21:51:25.922] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Found status: BETA Current: 1.18.44 Target: 1.17.2
+[06May2025 21:51:25.922] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[06May2025 21:51:26.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 5.10.3 Target: null
+[06May2025 21:51:26.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AdditionalStructures.json
+[06May2025 21:51:26.246] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Found status: UP_TO_DATE Current: 4.2.2 Target: null
+[06May2025 21:51:26.246] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[06May2025 21:51:26.251] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[06May2025 21:51:26.251] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06May2025 21:51:26.460] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[06May2025 21:51:26.460] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_piglins] Starting version check at https://update.maxhenkel.de/forge/easy_piglins
+[06May2025 21:51:26.624] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_piglins] Found status: OUTDATED Current: 1.20.1-1.0.13 Target: 1.20.1-1.1.0
+[06May2025 21:51:26.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalblocks.json
+[06May2025 21:51:26.642] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Found status: BETA Current: 8.0.5 Target: null
+[06May2025 21:51:26.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[06May2025 21:51:26.668] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: OUTDATED Current: 1.20.1-1.1.23 Target: 1.20.1-1.1.27
+[06May2025 21:51:26.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[06May2025 21:51:26.784] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10
+[06May2025 21:51:26.785] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalfences.json
+[06May2025 21:51:26.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Found status: OUTDATED Current: 8.1.4 Target: 8.1.5
+[06May2025 21:51:26.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[06May2025 21:51:26.840] [main/INFO] [journeymap/]: Initializing Packet Registries
+[06May2025 21:51:26.857] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[06May2025 21:51:26.857] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[06May2025 21:51:26.857] [main/INFO] [terrablender/]: Registered region buntsy:overworld_1 to index 1 for type OVERWORLD
+[06May2025 21:51:26.882] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.2 Target: 8.9.4
+[06May2025 21:51:26.882] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[06May2025 21:51:26.885] [main/INFO] [terrablender/]: Registered region mysticsbiomes:overworld_provider to index 2 for type OVERWORLD
+[06May2025 21:51:26.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.32
+[06May2025 21:51:26.889] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 3 for type OVERWORLD
+[06May2025 21:51:26.889] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 4 for type OVERWORLD
+[06May2025 21:51:26.889] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 5 for type OVERWORLD
+[06May2025 21:51:26.889] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[06May2025 21:51:26.890] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[06May2025 21:51:27.106] [modloading-worker-0/INFO] [com.chiki.dragonfinder.DragonFinder/]: Hello world from the MDK
+[06May2025 21:51:27.106] [modloading-worker-0/INFO] [com.chiki.dragonfinder.DragonFinder/]: Got IMC [Hello world]
+[06May2025 21:51:27.174] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[06May2025 21:51:27.183] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[06May2025 21:51:27.184] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[06May2025 21:51:27.197] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[06May2025 21:51:27.202] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[06May2025 21:51:27.204] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
+[06May2025 21:51:27.205] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
+[06May2025 21:51:27.207] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[06May2025 21:51:27.209] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at xfacthd.framedblocks.common.compat.jade.FramedJadePlugin
+[06May2025 21:51:27.209] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[06May2025 21:51:38.998] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06May2025 21:51:46.321] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23247!/assets/.mcassetsroot' uses unexpected schema
+[06May2025 21:51:46.322] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23247!/data/.mcassetsroot' uses unexpected schema
+[06May2025 21:51:46.709] [main/INFO] [com.simibubi.create.Create/]: Created 778 recipes which will be injected into the game
+[06May2025 21:51:46.727] [main/INFO] [com.simibubi.create.Create/]: Created 32 tags which will be injected into the game
+[06May2025 21:51:49.088] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[06May2025 21:51:49.249] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:rich_silicon_liquid_fuel as it is missing following references: mekanism_extras:rich_silicon_liquid_fuel (from mekanism_extras-1.20.1-1.3.7.2.jar), 
 	mekanism_extras:flowing_rich_silicon_liquid_fuel (from mekanism_extras-1.20.1-1.3.7.2.jar)
-[06May2025 17:01:04.635] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:rich_uranium_liquid_fuel as it is missing following references: mekanism_extras:rich_uranium_liquid_fuel (from mekanism_extras-1.20.1-1.3.7.2.jar), 
+[06May2025 21:51:49.252] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:rich_uranium_liquid_fuel as it is missing following references: mekanism_extras:rich_uranium_liquid_fuel (from mekanism_extras-1.20.1-1.3.7.2.jar), 
 	mekanism_extras:flowing_rich_uranium_liquid_fuel (from mekanism_extras-1.20.1-1.3.7.2.jar)
-[06May2025 17:01:04.766] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.2.jar
-[06May2025 17:01:05.822] [Worker-Main-3/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file mekanism_extras:reaction/enriched_radiance_gasification/enriched_radiance from mekanism_extras:recipes/reaction/enriched_radiance_gasification/enriched_radiance.json
+[06May2025 21:51:49.269] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.2.jar
+[06May2025 21:51:50.284] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file mekanism_extras:reaction/enriched_radiance_gasification/enriched_radiance from mekanism_extras:recipes/reaction/enriched_radiance_gasification/enriched_radiance.json
 com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
@@ -298,7 +300,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2370!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	... 13 more
-[06May2025 17:01:05.906] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:naturalist:entities/tortoise
+[06May2025 21:51:50.447] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:naturalist:entities/tortoise
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecraft:turtle_scute'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -350,7 +352,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06May2025 17:01:05.914] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:yuushya:blocks/painter_gift_box
+[06May2025 21:51:50.458] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:yuushya:blocks/painter_gift_box
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'yuushya:get_lit_item'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -402,7 +404,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06May2025 17:01:05.954] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:buntsy:blocks/gentlit_door
+[06May2025 21:51:50.505] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:buntsy:blocks/gentlit_door
 com.google.gson.JsonSyntaxException: Block Block{buntsy:gentlit_slab} has no property half
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81788_(LootItemBlockStatePropertyCondition.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at net.minecraft.advancements.critereon.StatePropertiesPredicate$PropertyMatcher.m_67721_(StatePropertiesPredicate.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
@@ -463,7 +465,7 @@ com.google.gson.JsonSyntaxException: Block Block{buntsy:gentlit_slab} has no pro
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06May2025 17:01:06.435] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:buntsy:blocks/bravot_door
+[06May2025 21:51:50.921] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:buntsy:blocks/bravot_door
 com.google.gson.JsonSyntaxException: Block Block{buntsy:bravot_slab} has no property half
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81788_(LootItemBlockStatePropertyCondition.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at net.minecraft.advancements.critereon.StatePropertiesPredicate$PropertyMatcher.m_67721_(StatePropertiesPredicate.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
@@ -524,7 +526,7 @@ com.google.gson.JsonSyntaxException: Block Block{buntsy:bravot_slab} has no prop
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06May2025 17:01:06.689] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:distilation/wrath_fume_2_from_distilation
+[06May2025 21:51:51.148] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:distilation/wrath_fume_2_from_distilation
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:rotten_blend'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
@@ -558,7 +560,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:rotten_blend'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[06May2025 17:01:06.712] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe seafoamsdyeableblocks:netherite_paintbrush_smithing
+[06May2025 21:51:51.168] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe seafoamsdyeableblocks:netherite_paintbrush_smithing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -587,7 +589,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[06May2025 17:01:06.782] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:distilation/wrath_fume_1_from_distilation
+[06May2025 21:51:51.230] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:distilation/wrath_fume_1_from_distilation
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:rotten_blend'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
@@ -621,7 +623,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:rotten_blend'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[06May2025 17:01:06.796] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:distilation/wrath_fume_3_from_distilation
+[06May2025 21:51:51.246] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:distilation/wrath_fume_3_from_distilation
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:rotten_blend'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
@@ -655,7 +657,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:rotten_blend'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[06May2025 17:01:06.832] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:advanced_infusion/oceanic_essence_from_adv_infusion
+[06May2025 21:51:51.291] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:advanced_infusion/oceanic_essence_from_adv_infusion
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:sea_grass'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
@@ -689,7 +691,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:sea_grass'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[06May2025 17:01:06.909] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:advanced_infusion/beacon_strength_modifier_from_adv_infusion
+[06May2025 21:51:51.365] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:advanced_infusion/beacon_strength_modifier_from_adv_infusion
 com.google.gson.JsonSyntaxException: Unknown item 'buntsy:diamond_sword'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
@@ -723,7 +725,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'buntsy:diamond_sword'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[06May2025 17:01:06.956] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe yuushya:painter_gift_box
+[06May2025 21:51:51.420] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe yuushya:painter_gift_box
 com.google.gson.JsonSyntaxException: Unknown item 'yuushya:the_encyclopedia'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -761,7 +763,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'yuushya:the_encyclopedia'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[06May2025 17:01:07.010] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe seafoamsdyeableblocks:dye_sponge
+[06May2025 21:51:51.470] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe seafoamsdyeableblocks:dye_sponge
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -799,307 +801,117 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[06May2025 17:01:07.030] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 61 recipes
-[06May2025 17:01:07.243] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5441 advancements
-[06May2025 17:01:07.248] [main/INFO] [rechiseled/]: Loaded 44 chiseling recipes
-[06May2025 17:01:07.249] [main/INFO] [Dungeon Crawl/]: Loading data...
-[06May2025 17:01:07.626] [main/INFO] [Dungeon Crawl/]: Done.
-[06May2025 17:01:07.657] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[06May2025 17:01:07.673] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[06May2025 17:01:17.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[06May2025 17:01:17.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[06May2025 17:01:17.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[06May2025 17:01:17.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[06May2025 17:01:17.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[06May2025 17:01:17.424] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[06May2025 17:01:17.540] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06May2025 17:01:17.542] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[06May2025 17:01:17.542] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06May2025 17:01:17.542] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[06May2025 17:01:17.569] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[06May2025 17:01:17.570] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[06May2025 17:01:17.581] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: Loading "Easier Sleeping" SERVER Config
-[06May2025 17:01:17.581] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_message = is now in bed.
-[06May2025 17:01:17.582] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimension_list_type = SLEEP_ACTIVE
-[06May2025 17:01:17.582] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: wake_message = stood up.
-[06May2025 17:01:17.582] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: block_blacklist = []
-[06May2025 17:01:17.583] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_percent = 50
-[06May2025 17:01:17.583] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: morning_message = Good Morning
-[06May2025 17:01:17.584] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: all_players_rest = false
-[06May2025 17:01:17.584] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimensions = [minecraft:overworld]
-[06May2025 17:01:17.584] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: "Easier Sleeping" SERVER Config loaded
-[06May2025 17:01:17.585] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: Loading "Easier Sleeping" SERVER Config
-[06May2025 17:01:17.585] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_message = is now in bed.
-[06May2025 17:01:17.586] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimension_list_type = SLEEP_ACTIVE
-[06May2025 17:01:17.587] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: wake_message = stood up.
-[06May2025 17:01:17.588] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: block_blacklist = []
-[06May2025 17:01:17.588] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_percent = 50
-[06May2025 17:01:17.588] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: morning_message = Good Morning
-[06May2025 17:01:17.588] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: all_players_rest = false
-[06May2025 17:01:17.589] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimensions = [minecraft:overworld]
-[06May2025 17:01:17.590] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: "Easier Sleeping" SERVER Config loaded
-[06May2025 17:01:17.590] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: Loading "Easier Sleeping" SERVER Config
-[06May2025 17:01:17.591] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_message = is now in bed.
-[06May2025 17:01:17.593] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimension_list_type = SLEEP_ACTIVE
-[06May2025 17:01:17.594] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: wake_message = stood up.
-[06May2025 17:01:17.595] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: block_blacklist = []
-[06May2025 17:01:17.595] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_percent = 50
-[06May2025 17:01:17.596] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: morning_message = Good Morning
-[06May2025 17:01:17.597] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: all_players_rest = false
-[06May2025 17:01:17.599] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimensions = [minecraft:overworld]
-[06May2025 17:01:17.600] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: "Easier Sleeping" SERVER Config loaded
-[06May2025 17:01:18.163] [Server thread/INFO] [FTB Teams/]: loaded team data: 14 known players, 17 teams total
-[06May2025 17:01:19.151] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[06May2025 17:01:19.152] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[06May2025 17:01:19.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[06May2025 17:01:20.207] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[06May2025 17:01:20.207] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[06May2025 17:01:20.208] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[06May2025 17:01:20.208] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[06May2025 17:01:20.208] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[06May2025 17:01:20.209] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[06May2025 17:01:20.209] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[06May2025 17:01:20.212] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.FishingHook from class net.heyimamethyst.fairyfactions.entities.FairyFishHookEntity
-[06May2025 17:01:20.212] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.FishingHook from class net.heyimamethyst.fairyfactions.entities.FairyFishHookEntity
-[06May2025 17:01:24.688] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[06May2025 17:01:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[06May2025 17:01:27.910] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[06May2025 17:01:29.580] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[06May2025 17:01:30.829] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 17:01:30.850] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 17:01:30.874] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 17:01:30.889] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 17:01:30.900] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 17:01:30.918] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 17:01:30.932] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 17:01:31.580] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 17:01:32.044] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 17:01:33.041] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[06May2025 17:01:33.218] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 17:01:33.234] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 17:01:33.250] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 17:01:33.690] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 17:01:34.182] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06May2025 17:01:34.756] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[06May2025 17:01:35.181] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 21%
-[06May2025 17:01:35.698] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
-[06May2025 17:01:36.630] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 61%
-[06May2025 17:01:36.682] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 64%
-[06May2025 17:01:37.526] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[06May2025 17:01:37.687] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[06May2025 17:01:38.272] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
-[06May2025 17:01:38.731] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
-[06May2025 17:01:39.182] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
-[06May2025 17:01:39.485] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[06May2025 17:01:39.728] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
-[06May2025 17:01:40.182] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 99%
-[06May2025 17:01:40.241] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12560 ms
-[06May2025 17:01:40.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (22.676s)! For help, type "help"
-[06May2025 17:01:40.643] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[06May2025 17:01:40.696] [Server thread/INFO] [com.chiki.dragonfinder.DragonFinder/]: HELLO from server starting
-[06May2025 17:01:42.414] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[06May2025 17:01:42.414] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[06May2025 17:01:46.831] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@284ae875[id=<null>,name=aaleexx17,properties={},legacy=false] (/127.165.157.203:35471) lost connection: Internal Exception: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "i" is null
-[06May2025 17:02:00.417] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[06May2025 17:02:00.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:58937] logged in with entity id 710 at (515.6123350021373, 84.0, -1309.7574835302846)
-[06May2025 17:02:00.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
-[06May2025 17:02:01.019] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
-[06May2025 17:02:03.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3360ms or 67 ticks behind
-[06May2025 17:02:03.997] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elenitive[/127.60.88.4:36947] logged in with entity id 712 at (505.27163608369676, 94.0, -1297.852578528678)
-[06May2025 17:02:04.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive joined the game
-[06May2025 17:02:04.125] [Server thread/INFO] [Jade/]: Syncing config to Elenitive (2220527c-f40a-3f64-a9d3-9d22926aa118)
-[06May2025 17:03:08.604] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=727, y=-28, z=-1524}
-[06May2025 17:03:08.605] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=727, y=-28, z=-1526}
-[06May2025 17:05:21.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
-[06May2025 17:06:01.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 17:08:23.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
-[06May2025 17:11:29.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set aaleexx17's game mode to Survival Mode]
-[06May2025 17:12:40.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 17:14:41.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
-[06May2025 17:15:12.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 17:15:20.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
-[06May2025 17:15:26.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 17:15:37.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
-[06May2025 17:19:24.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 17:20:33.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
-[06May2025 17:20:35.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=509, y=97, z=-1312} BlockPos{x=509, y=97, z=-1311}
-[06May2025 17:20:35.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=509, y=97, z=-1312} BlockPos{x=509, y=97, z=-1311}
-[06May2025 17:20:35.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=509, y=97, z=-1312} BlockPos{x=509, y=97, z=-1311}
-[06May2025 17:20:35.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=509, y=97, z=-1312} BlockPos{x=509, y=97, z=-1311}
-[06May2025 17:29:51.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 17:33:20.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
-[06May2025 17:34:22.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 17:44:22.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
-[06May2025 17:50:26.036] [Worker-Main-49/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=140, y=-25, z=-5106}
-[06May2025 17:50:26.037] [Worker-Main-49/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=141, y=-25, z=-5106}
-[06May2025 17:50:26.037] [Worker-Main-49/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=142, y=-25, z=-5106}
-[06May2025 17:50:26.038] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=139, y=-25, z=-5103}
-[06May2025 17:50:36.939] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=481, y=-36, z=-5081}
-[06May2025 17:50:41.696] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=475, y=-1, z=-5152}
-[06May2025 17:50:53.949] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=391, y=-37, z=-4713}
-[06May2025 17:51:25.002] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-21, y=-48, z=-4744}
-[06May2025 17:51:43.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 17:52:13.537] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-103, y=-49, z=-4948}
-[06May2025 17:52:39.595] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-221, y=11, z=-4931}
-[06May2025 17:53:08.246] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-270, y=-47, z=-5259}
-[06May2025 17:54:22.394] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-710, y=-25, z=-5111}
-[06May2025 17:54:55.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! 10.090680368994413,0.0,0.8296884445353498
-[06May2025 17:54:55.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2386ms or 47 ticks behind
-[06May2025 17:54:57.164] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-512, y=33, z=-4853}
-[06May2025 17:54:57.206] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-515, y=33, z=-4852}
-[06May2025 17:55:11.312] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-779, y=-13, z=-5081}
-[06May2025 17:55:13.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -9.038150863208102,-4.766367993957523,-0.145580203663485
-[06May2025 17:55:13.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
-[06May2025 17:55:15.650] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-792, y=-6, z=-5095}
-[06May2025 17:56:11.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
-[06May2025 17:56:53.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 17:57:43.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
-[06May2025 17:59:28.337] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/13721, l='ServerLevel[world]', x=-659.94, y=103.50, z=-4844.84] died, message: 'Farmer was pricked to death'
-[06May2025 17:59:44.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! 3.6160316567481914,-2.119990336132286,9.22737298494576
-[06May2025 17:59:44.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
-[06May2025 17:59:53.559] [Worker-Main-49/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-772, y=-42, z=-4736}
-[06May2025 17:59:53.560] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-775, y=-42, z=-4739}
-[06May2025 18:06:32.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 18:06:45.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved wrongly!
-[06May2025 18:06:45.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved wrongly!
-[06May2025 18:06:52.257] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-901, y=-32, z=-4797}
-[06May2025 18:07:30.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
-[06May2025 18:09:01.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2208ms or 44 ticks behind
-[06May2025 18:09:17.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 18:10:22.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
-[06May2025 18:10:23.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 18:12:57.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -9.506470804385117,-3.1011932055216676,1.074924131716216
-[06May2025 18:12:57.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4648ms or 92 ticks behind
-[06May2025 18:13:01.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -9.096610616046974,4.8604138003016,0.40614032852226956
-[06May2025 18:13:07.534] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1234, y=-20, z=-5159}
-[06May2025 18:13:24.252] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1085, y=-18, z=-5115}
-[06May2025 18:13:39.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
-[06May2025 18:15:46.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 18:16:14.513] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1036, y=-38, z=-5065}
-[06May2025 18:17:27.407] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1125, y=17, z=-5013}
-[06May2025 18:17:27.407] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1125, y=17, z=-5015}
-[06May2025 18:17:33.036] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21111, l='ServerLevel[world]', x=-1271.28, y=74.00, z=-5072.37] died, message: 'Unemployed suffocated in a wall'
-[06May2025 18:17:34.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
-[06May2025 18:17:34.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
-[06May2025 18:19:16.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [They Have a Cave Troll!]
-[06May2025 18:27:21.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:53865] logged in with entity id 25058 at (-1186.9346939070551, 116.0, -5230.755509285373)
-[06May2025 18:27:21.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
-[06May2025 18:27:21.456] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
-[06May2025 18:27:28.403] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25232, l='ServerLevel[world]', x=-1264.28, y=78.00, z=-5058.37] died, message: 'Unemployed suffocated in a wall'
-[06May2025 18:27:28.404] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25233, l='ServerLevel[world]', x=-1264.42, y=76.00, z=-5057.56] died, message: 'Unemployed suffocated in a wall'
-[06May2025 18:27:49.803] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1243, y=-52, z=-5001}
-[06May2025 18:28:45.291] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1322, y=-19, z=-4879}
-[06May2025 18:28:57.797] [Worker-Main-29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1002, y=43, z=-4895}
-[06May2025 18:28:57.798] [Worker-Main-29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1001, y=43, z=-4895}
-[06May2025 18:28:57.798] [Worker-Main-29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1001, y=43, z=-4895}
-[06May2025 18:28:57.798] [Worker-Main-29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1002, y=43, z=-4895}
-[06May2025 18:28:57.798] [Worker-Main-29/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-1002, 43, -4895)
-[06May2025 18:29:00.652] [Worker-Main-49/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1184, y=32, z=-4826}
-[06May2025 18:29:24.299] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1116, y=30, z=-4714}
-[06May2025 18:29:58.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! 1.491321228877041,-1.1793106979709478,9.989539512177544
-[06May2025 18:29:58.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4001ms or 80 ticks behind
-[06May2025 18:30:00.240] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1327, y=8, z=-4520}
-[06May2025 18:31:30.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Find them all]
-[06May2025 18:32:12.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! 3.882465766203495,7.759503915022734,5.2241819775827025
-[06May2025 18:32:12.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! 0.8788072640313658,-1.8843980532666933,10.128720365756635
-[06May2025 18:33:07.400] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-705, y=39, z=-4527}
-[06May2025 18:35:07.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Find them all]
-[06May2025 18:35:40.779] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1618, y=-10, z=-4291}
-[06May2025 18:35:40.779] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1618, y=-10, z=-4292}
-[06May2025 18:39:51.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ivii[/127.1.114.128:49097] logged in with entity id 31313 at (560.2774108662445, 130.0, -954.3638300683193)
-[06May2025 18:39:51.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii joined the game
-[06May2025 18:39:51.420] [Server thread/INFO] [Jade/]: Syncing config to ivii (7cdb0d64-19f0-3c6c-95d6-c3907a315282)
-[06May2025 18:39:57.436] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=356, y=-37, z=-1069}
-[06May2025 18:42:39.758] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=226, y=-9, z=-1069}
-[06May2025 18:44:03.740] [Worker-Main-36/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-23, y=27, z=-1058}
-[06May2025 18:44:03.748] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-22, y=27, z=-1056}
-[06May2025 18:44:41.140] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1296, y=7, z=-4224}
-[06May2025 18:44:41.140] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1295, y=7, z=-4223}
-[06May2025 18:44:53.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -3.396274106972214,-10.451758450684437,-0.04483519989571505
-[06May2025 18:44:53.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -8.310327229660288,-2.236255627908619,-5.3408008729238645
-[06May2025 18:44:53.798] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1710, y=0, z=-1701}
-[06May2025 18:44:53.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3939ms or 78 ticks behind
-[06May2025 18:44:55.354] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1791, y=-45, z=-4605}
-[06May2025 18:44:55.354] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1792, y=-45, z=-4605}
-[06May2025 18:44:56.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -3.5148404273759297,-9.930837390124566,0.8689926221895803
-[06May2025 18:44:56.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -4.675349724295074,8.708833913339944,4.01475393040073
-[06May2025 18:45:08.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! 6.490377663104027,8.101512713888397,-0.638782724399789
-[06May2025 18:46:16.565] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=0, y=30, z=-1303}
-[06May2025 18:46:41.947] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=20, y=-44, z=-1347}
-[06May2025 18:47:38.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Herc was on a Roll!]
-[06May2025 18:47:45.292] [Worker-Main-49/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1814, y=-30, z=-4191}
-[06May2025 18:47:52.801] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1404, y=-48, z=-4174}
-[06May2025 18:47:56.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -5.147758447929618,8.591670963207505,-1.3736043358549068
-[06May2025 18:48:01.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -6.212313223328238,8.101604694925996,-1.4517940957903193
-[06May2025 18:48:12.321] [Worker-Main-36/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1888, y=28, z=-4565}
-[06May2025 18:48:38.148] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1484, y=37, z=-4128}
-[06May2025 18:48:38.148] [Worker-Main-29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1485, y=37, z=-4130}
-[06May2025 18:48:59.205] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2029, y=-26, z=-4179}
-[06May2025 18:49:26.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -6.221009232094957,6.536703949717861,-5.082878095214255
-[06May2025 18:49:26.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -7.857152504810074,-5.979329965305567,-3.4605403148443656
-[06May2025 18:49:26.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivii moved too quickly! -0.024791529519518463,1.8232407249357578,-9.856861735609755
-[06May2025 18:49:26.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3806ms or 76 ticks behind
-[06May2025 18:49:28.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -9.605080324820392,3.51424089125544,0.10762715092459985
-[06May2025 18:49:28.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -8.186961415899304,5.948303957728726,0.49556587466395285
-[06May2025 18:49:32.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -8.739665344588502,2.103394523355533,-4.59413111219601
-[06May2025 18:50:19.306] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2145, y=-2, z=-4087}
-[06May2025 18:50:39.157] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-542, y=-35, z=-1181}
-[06May2025 18:50:47.789] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2400, y=-8, z=-4131}
-[06May2025 18:50:47.789] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2400, y=-8, z=-4132}
-[06May2025 18:50:56.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -8.938808182830144,4.808616677196113,1.4308946551564077
-[06May2025 18:50:56.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! 3.1033900420775353,5.498448660898774,-7.832103625810305
-[06May2025 18:50:56.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivii moved too quickly! -8.491551219087398,0.16615329043402483,-5.368762173170353
-[06May2025 18:50:56.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5445ms or 108 ticks behind
-[06May2025 18:51:01.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -1.1430179232797855,9.0,-4.827180378086268
-[06May2025 18:51:01.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -8.949970371056224,-3.862572224680278,-3.210371277554259
-[06May2025 18:51:28.763] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2628, y=29, z=-4551}
-[06May2025 18:51:43.049] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2712, y=-32, z=-4391}
-[06May2025 18:51:43.050] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2714, y=-32, z=-4391}
-[06May2025 18:51:53.953] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2724, y=6, z=-4331}
-[06May2025 18:51:59.749] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2743, y=-4, z=-4385}
-[06May2025 18:52:21.813] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-514, y=-8, z=-993}
-[06May2025 18:52:26.451] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2579, y=6, z=-4153}
-[06May2025 18:52:26.451] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2579, y=6, z=-4154}
-[06May2025 18:52:58.941] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/42139, l='ServerLevel[world]', x=-2620.49, y=73.00, z=-4188.51] died, message: 'Unemployed suffocated in a wall'
-[06May2025 18:53:16.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
-[06May2025 18:53:17.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Rocks Off!]
-[06May2025 18:54:43.938] [Worker-Main-29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2224, y=-24, z=-4033}
-[06May2025 18:54:54.714] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2721, y=-7, z=-4530}
-[06May2025 18:55:06.362] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-179, y=-14, z=-1577}
-[06May2025 18:55:24.341] [Worker-Main-48/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-658, y=-19, z=-1354}
-[06May2025 18:56:20.558] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-810, y=-34, z=-1399}
-[06May2025 18:56:49.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
-[06May2025 18:57:13.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 18:57:23.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
-[06May2025 18:57:42.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 18:57:58.488] [Worker-Main-29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1090, y=-15, z=-1505}
-[06May2025 18:57:58.497] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1080, y=-3, z=-1499}
-[06May2025 18:57:58.497] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1080, y=-3, z=-1500}
-[06May2025 18:58:07.680] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-908, y=-52, z=-1705}
-[06May2025 18:58:07.683] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-907, y=-52, z=-1705}
-[06May2025 18:58:08.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
-[06May2025 18:58:19.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 18:58:25.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
-[06May2025 18:58:35.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 18:58:37.425] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-960, y=-33, z=-1318}
-[06May2025 18:58:37.465] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-963, y=-33, z=-1317}
-[06May2025 18:58:38.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
-[06May2025 18:59:03.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 18:59:06.403] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1064, y=-42, z=-1806}
-[06May2025 18:59:06.403] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1066, y=-42, z=-1806}
-[06May2025 18:59:08.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
-[06May2025 18:59:10.441] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-867, y=-1, z=-1811}
-[06May2025 18:59:15.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 18:59:27.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
-[06May2025 18:59:42.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[06May2025 18:59:48.151] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1075, y=3, z=-1944}
-[06May2025 18:59:48.152] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1075, y=3, z=-1945}
-[06May2025 18:59:48.152] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1068, y=-9, z=-1944}
-[06May2025 18:59:52.411] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1067, y=-9, z=-1967}
-[06May2025 19:00:56.938] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-757, y=-40, z=-1991}
-[06May2025 19:01:15.023] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-711, y=-18, z=-1756}
-[06May2025 19:01:15.024] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-713, y=-18, z=-1756}
-[06May2025 19:01:19.501] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-699, y=-41, z=-1741}
-[06May2025 19:01:19.501] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-700, y=-41, z=-1741}
-[06May2025 19:01:30.507] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-684, y=-41, z=-1833}
-[06May2025 19:01:53.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
+[06May2025 21:51:51.488] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 61 recipes
+[06May2025 21:51:51.684] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5441 advancements
+[06May2025 21:51:51.688] [main/INFO] [rechiseled/]: Loaded 44 chiseling recipes
+[06May2025 21:51:51.689] [main/INFO] [Dungeon Crawl/]: Loading data...
+[06May2025 21:51:52.104] [main/INFO] [Dungeon Crawl/]: Done.
+[06May2025 21:51:52.143] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[06May2025 21:51:52.160] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[06May2025 21:51:59.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[06May2025 21:51:59.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06May2025 21:51:59.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06May2025 21:51:59.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06May2025 21:51:59.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06May2025 21:51:59.475] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06May2025 21:51:59.565] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06May2025 21:51:59.566] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[06May2025 21:51:59.566] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06May2025 21:51:59.566] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[06May2025 21:51:59.584] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[06May2025 21:51:59.604] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: Loading "Easier Sleeping" SERVER Config
+[06May2025 21:51:59.605] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_message = is now in bed.
+[06May2025 21:51:59.606] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimension_list_type = SLEEP_ACTIVE
+[06May2025 21:51:59.606] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: wake_message = stood up.
+[06May2025 21:51:59.607] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: block_blacklist = []
+[06May2025 21:51:59.607] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_percent = 50
+[06May2025 21:51:59.608] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: morning_message = Good Morning
+[06May2025 21:51:59.608] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: all_players_rest = false
+[06May2025 21:51:59.609] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimensions = [minecraft:overworld]
+[06May2025 21:51:59.609] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: "Easier Sleeping" SERVER Config loaded
+[06May2025 21:51:59.611] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: Loading "Easier Sleeping" SERVER Config
+[06May2025 21:51:59.612] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_message = is now in bed.
+[06May2025 21:51:59.612] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimension_list_type = SLEEP_ACTIVE
+[06May2025 21:51:59.613] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: wake_message = stood up.
+[06May2025 21:51:59.613] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: block_blacklist = []
+[06May2025 21:51:59.613] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_percent = 50
+[06May2025 21:51:59.613] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: morning_message = Good Morning
+[06May2025 21:51:59.613] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: all_players_rest = false
+[06May2025 21:51:59.614] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimensions = [minecraft:overworld]
+[06May2025 21:51:59.616] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: "Easier Sleeping" SERVER Config loaded
+[06May2025 21:51:59.619] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: Loading "Easier Sleeping" SERVER Config
+[06May2025 21:51:59.620] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_message = is now in bed.
+[06May2025 21:51:59.621] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimension_list_type = SLEEP_ACTIVE
+[06May2025 21:51:59.621] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: wake_message = stood up.
+[06May2025 21:51:59.621] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: block_blacklist = []
+[06May2025 21:51:59.621] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_percent = 50
+[06May2025 21:51:59.622] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: morning_message = Good Morning
+[06May2025 21:51:59.622] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: all_players_rest = false
+[06May2025 21:51:59.625] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimensions = [minecraft:overworld]
+[06May2025 21:51:59.625] [Thread-1/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: "Easier Sleeping" SERVER Config loaded
+[06May2025 21:51:59.941] [Server thread/INFO] [FTB Teams/]: loaded team data: 14 known players, 17 teams total
+[06May2025 21:52:00.191] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[06May2025 21:52:00.744] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[06May2025 21:52:00.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06May2025 21:52:01.771] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[06May2025 21:52:01.772] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[06May2025 21:52:01.772] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[06May2025 21:52:01.772] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[06May2025 21:52:01.773] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[06May2025 21:52:01.773] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[06May2025 21:52:01.773] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[06May2025 21:52:01.776] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.FishingHook from class net.heyimamethyst.fairyfactions.entities.FairyFishHookEntity
+[06May2025 21:52:01.776] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.FishingHook from class net.heyimamethyst.fairyfactions.entities.FairyFishHookEntity
+[06May2025 21:52:07.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06May2025 21:52:10.402] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2025 21:52:10.780] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2025 21:52:10.841] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2025 21:52:10.880] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2025 21:52:10.896] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2025 21:52:10.923] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2025 21:52:10.947] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2025 21:52:10.972] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2025 21:52:11.280] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2025 21:52:11.781] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2025 21:52:12.390] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2025 21:52:12.775] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[06May2025 21:52:13.275] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[06May2025 21:52:13.528] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6254 ms
+[06May2025 21:52:13.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.948s)! For help, type "help"
+[06May2025 21:52:13.610] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06May2025 21:52:13.650] [Server thread/INFO] [com.chiki.dragonfinder.DragonFinder/]: HELLO from server starting
+[06May2025 21:52:14.813] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[06May2025 21:52:14.814] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[06May2025 21:52:22.521] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[06May2025 21:52:22.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:43501] logged in with entity id 705 at (-2278.8547904289853, 6.0, -5031.4721090159865)
+[06May2025 21:52:22.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[06May2025 21:52:22.980] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[06May2025 21:54:27.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elenitive[/127.60.88.4:43529] logged in with entity id 1334 at (507.30000001192093, 94.0, -1297.9299027898073)
+[06May2025 21:54:27.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive joined the game
+[06May2025 21:54:27.410] [Server thread/INFO] [Jade/]: Syncing config to Elenitive (2220527c-f40a-3f64-a9d3-9d22926aa118)
+[06May2025 21:55:03.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 was kicked for floating too long!
+[06May2025 21:55:03.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
+[06May2025 21:55:03.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[06May2025 21:55:03.875] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06May2025 21:55:43.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:35311] logged in with entity id 2233 at (-2271.3365473150993, 4.907623741384941, -5034.431287255474)
+[06May2025 21:55:43.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[06May2025 21:55:43.461] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[06May2025 21:56:01.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 was kicked for floating too long!
+[06May2025 21:56:01.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Flying is not enabled on this server
+[06May2025 21:56:01.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[06May2025 21:56:16.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
+[06May2025 21:56:33.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 21:56:38.614] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:38043] logged in with entity id 2965 at (-2271.3365473150993, 4.907623741384941, -5034.431287255474)
+[06May2025 21:56:38.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[06May2025 21:56:38.666] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[06May2025 21:56:49.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 was kicked for floating too long!
+[06May2025 21:56:50.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Flying is not enabled on this server
+[06May2025 21:56:50.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[06May2025 21:57:20.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:60455] logged in with entity id 3517 at (-2271.3365473150993, 4.907623741384941, -5034.431287255474)
+[06May2025 21:57:20.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[06May2025 21:57:20.489] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[06May2025 21:57:25.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set aaleexx17's game mode to Creative Mode]
+[06May2025 21:59:44.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [The Dark (Chocolate) Tower]
+[06May2025 21:59:45.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [The Secret Ingredient]
+[06May2025 22:00:10.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set aaleexx17's game mode to Survival Mode]
+[06May2025 22:00:20.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Spear Mint]

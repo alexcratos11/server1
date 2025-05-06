@@ -9531,6 +9531,12 @@
     },
     "done": true
   },
+  "dragonfinder:dragonfinder/dragon_eye": {
+    "criteria": {
+      "bestiary": "2025-05-06 18:35:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_boots": {
     "criteria": {
       "has_item": "2025-05-06 18:37:28 +0000"
@@ -9543,27 +9549,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-05-06 18:40:27 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_silver_leggings": {
     "criteria": {
       "has_item": "2025-05-06 18:37:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-05-06 18:40:27 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rocky_roller": {
-    "criteria": {
-      "killed": "2025-05-06 18:53:16 +0000"
     },
     "done": true
   },
@@ -9573,15 +9561,21 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/rocky_shell": {
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
     "criteria": {
-      "soul_heart": "2025-05-06 18:53:17 +0000"
+      "has_dragonscales_silver": "2025-05-06 18:37:28 +0000"
     },
     "done": true
   },
-  "dragonfinder:dragonfinder/dragon_eye": {
+  "minecraft:recipes/building_blocks/clay": {
     "criteria": {
-      "bestiary": "2025-05-06 18:35:07 +0000"
+      "has_clay_ball": "2025-05-06 18:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-06 18:40:27 +0000"
     },
     "done": true
   },
@@ -9591,15 +9585,87 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
-    "criteria": {
-      "has_dragonscales_silver": "2025-05-06 18:37:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-05-06 18:52:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed": "2025-05-06 18:53:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-05-06 18:53:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-05-06 19:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-06 19:02:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-05-06 19:04:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2025-05-06 19:04:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-05-06 19:04:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-05-06 19:06:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-05-06 19:07:43 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/energizer_stick": {
+    "criteria": {
+      "has_sugar": "2025-05-06 19:13:48 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/sugar_bowl": {
+    "criteria": {
+      "has_sugar": "2025-05-06 19:13:48 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/syrupy_mixture_bowl": {
+    "criteria": {
+      "has_sugar": "2025-05-06 19:13:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2025-05-06 19:14:35 +0000"
     },
     "done": true
   },

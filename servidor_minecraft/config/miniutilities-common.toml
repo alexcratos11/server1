@@ -1,4 +1,8 @@
 
+["World Generation"]
+	#Should Ender Ore Generate?
+	"Ender Ore Generation" = true
+
 ["General Settings"]
 	#Should Cursed Earth be Obtainable?
 	"Obtain Cursed" = true
@@ -31,10 +35,6 @@
 	#How many Panels should it take to increase the multiplier by 1?
 	#Range: 1 ~ 1000000
 	"Panel Multiplier Amount" = 50
-
-["World Generation"]
-	#Should Ender Ore Generate?
-	"Ender Ore Generation" = true
 
 ["Blessed Earth Settings"]
 	#How long should it minimum wait before trying to spawn
