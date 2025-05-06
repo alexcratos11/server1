@@ -21161,3 +21161,13 @@ java.util.NoSuchElementException: No value present
 [06May2025 23:22:14.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
 [06May2025 23:23:08.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06May2025 23:23:08.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 23:26:06.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[06May2025 23:26:47.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 23:28:08.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 23:28:08.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 23:28:21.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [An Ear-Shattering Roar]
+[06May2025 23:28:37.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Dragon Commander]
+[06May2025 23:29:53.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive lost connection: Disconnected
+[06May2025 23:29:53.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive left the game
+[06May2025 23:33:08.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 23:33:08.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
