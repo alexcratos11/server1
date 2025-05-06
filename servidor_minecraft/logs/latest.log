@@ -968,3 +968,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [06May2025 18:09:17.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
 [06May2025 18:10:22.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
 [06May2025 18:10:23.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 18:12:57.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -9.506470804385117,-3.1011932055216676,1.074924131716216
+[06May2025 18:12:57.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4648ms or 92 ticks behind
+[06May2025 18:13:01.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -9.096610616046974,4.8604138003016,0.40614032852226956
+[06May2025 18:13:07.534] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1234, y=-20, z=-5159}
+[06May2025 18:13:24.252] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1085, y=-18, z=-5115}
+[06May2025 18:13:39.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[06May2025 18:15:46.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 18:16:14.513] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1036, y=-38, z=-5065}
+[06May2025 18:17:27.407] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1125, y=17, z=-5013}
+[06May2025 18:17:27.407] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1125, y=17, z=-5015}
+[06May2025 18:17:33.036] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21111, l='ServerLevel[world]', x=-1271.28, y=74.00, z=-5072.37] died, message: 'Unemployed suffocated in a wall'
+[06May2025 18:17:34.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
+[06May2025 18:17:34.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[06May2025 18:19:16.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [They Have a Cave Troll!]

@@ -73,6 +73,7 @@
       "jacaranda_glade": "2025-05-02 21:56:35 +0000",
       "jade_cliffs": "2025-05-03 12:55:52 +0000",
       "mystic_grove": "2025-05-03 17:40:45 +0000",
+      "cold_desert": "2025-05-06 18:11:23 +0000",
       "old_growth_woodland": "2025-05-02 16:49:04 +0000",
       "maple_woods": "2025-05-03 18:27:08 +0000",
       "orchard": "2025-05-02 21:22:27 +0000",
@@ -10472,6 +10473,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-05-06 18:11:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-06 17:22:21 +0000"
@@ -10610,6 +10617,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-05-06 18:11:29 +0000"
+    },
+    "done": true
+  },
   "material_elements:recipes/leather/leather_strip_red_from_red_dye": {
     "criteria": {
       "has_red_dye": "2025-05-06 17:57:46 +0000"
@@ -10646,6 +10659,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-05-06 18:11:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-05-06 17:21:29 +0000"
@@ -10676,6 +10695,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-06 18:11:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-06 17:57:46 +0000"
@@ -10703,6 +10728,12 @@
   "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-06 17:22:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-05-06 18:11:29 +0000"
     },
     "done": true
   },

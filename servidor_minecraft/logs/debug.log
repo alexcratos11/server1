@@ -10616,3 +10616,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [06May2025 18:09:17.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
 [06May2025 18:10:22.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
 [06May2025 18:10:23.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 18:11:55.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 18:11:55.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 18:12:57.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -9.506470804385117,-3.1011932055216676,1.074924131716216
+[06May2025 18:12:57.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4648ms or 92 ticks behind
+[06May2025 18:13:01.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -9.096610616046974,4.8604138003016,0.40614032852226956
+[06May2025 18:13:07.534] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1234, y=-20, z=-5159}
+[06May2025 18:13:24.252] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1085, y=-18, z=-5115}
+[06May2025 18:13:33.798] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-1596 | 26 | -5116).
+[06May2025 18:13:33.798] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[06May2025 18:13:33.798] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[06May2025 18:13:33.798] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[06May2025 18:13:33.798] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[06May2025 18:13:33.798] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[06May2025 18:13:33.799] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(0) Nodes and 4(0) Rooms
+[06May2025 18:13:33.799] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[06May2025 18:13:33.799] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(0) Nodes and 6(0) Rooms
+[06May2025 18:13:33.799] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[06May2025 18:13:33.799] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 4(0) Rooms
+[06May2025 18:13:39.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[06May2025 18:15:46.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 18:16:14.513] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1036, y=-38, z=-5065}
+[06May2025 18:16:27.576] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (-1009 | 48 | -5034)
+[06May2025 18:16:27.576] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (-1009 | 48 | -5034)
+[06May2025 18:16:27.576] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (-998 | 42 | -5035)
+[06May2025 18:16:27.577] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (-998 | 42 | -5035)
+[06May2025 18:16:27.577] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation CLOCKWISE_180 at (-1015 | 41 | -5040)
+[06May2025 18:16:27.579] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation CLOCKWISE_180 at (-1015 | 41 | -5040)
+[06May2025 18:16:27.579] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (-993 | 42 | -5035)
+[06May2025 18:16:27.579] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (-993 | 42 | -5035)
+[06May2025 18:16:59.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 18:16:59.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 18:17:27.407] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1125, y=17, z=-5013}
+[06May2025 18:17:27.407] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1125, y=17, z=-5015}
+[06May2025 18:17:33.036] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21111, l='ServerLevel[world]', x=-1271.28, y=74.00, z=-5072.37] died, message: 'Unemployed suffocated in a wall'
+[06May2025 18:17:34.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
+[06May2025 18:17:34.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[06May2025 18:19:16.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [They Have a Cave Troll!]
