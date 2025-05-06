@@ -9346,3 +9346,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [06May2025 17:16:46.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06May2025 17:18:28.163] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
 [06May2025 17:19:24.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[06May2025 17:20:33.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[06May2025 17:20:35.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=509, y=97, z=-1312} BlockPos{x=509, y=97, z=-1311}
+[06May2025 17:20:35.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=509, y=97, z=-1312} BlockPos{x=509, y=97, z=-1311}
+[06May2025 17:20:35.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=509, y=97, z=-1312} BlockPos{x=509, y=97, z=-1311}
+[06May2025 17:20:35.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=509, y=97, z=-1312} BlockPos{x=509, y=97, z=-1311}
+[06May2025 17:21:45.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 17:21:45.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 17:26:45.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 17:26:45.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 17:29:51.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
