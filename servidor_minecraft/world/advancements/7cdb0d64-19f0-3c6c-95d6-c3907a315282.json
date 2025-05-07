@@ -61,6 +61,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-05-07 21:24:44 +0000",
       "woodland": "2025-05-02 19:24:27 +0000",
       "shrubland": "2025-05-02 16:34:59 +0000",
       "rocky_shrubland": "2025-05-02 16:49:13 +0000",
@@ -75,6 +76,7 @@
       "moor": "2025-05-02 17:47:53 +0000",
       "coniferous_forest": "2025-05-03 01:01:30 +0000",
       "spider_nest": "2025-05-02 23:38:54 +0000",
+      "forested_field": "2025-05-07 21:05:25 +0000",
       "redwood_forest": "2025-05-02 16:57:41 +0000",
       "dune_beach": "2025-05-02 16:57:43 +0000",
       "seasonal_forest": "2025-05-03 12:53:31 +0000",
@@ -83,6 +85,8 @@
       "pumpkin_patch": "2025-05-03 12:55:59 +0000",
       "grassland": "2025-05-02 14:37:54 +0000",
       "prairie": "2025-05-03 01:18:15 +0000",
+      "snowy_coniferous_forest": "2025-05-07 21:20:34 +0000",
+      "snowy_fir_clearing": "2025-05-07 21:14:53 +0000",
       "glowing_grotto": "2025-05-03 02:47:01 +0000",
       "gravel_beach": "2025-05-03 12:58:26 +0000",
       "ominous_woods": "2025-05-03 12:53:34 +0000"
@@ -91,8 +95,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-07 20:56:57 +0000",
       "minecraft:taiga": "2025-05-03 13:28:12 +0000",
       "minecraft:deep_ocean": "2025-05-02 18:48:37 +0000",
+      "minecraft:frozen_river": "2025-05-07 21:20:32 +0000",
       "minecraft:cherry_grove": "2025-05-02 18:27:45 +0000",
       "minecraft:sunflower_plains": "2025-05-03 00:23:56 +0000",
       "minecraft:birch_forest": "2025-05-02 16:19:51 +0000",
@@ -107,8 +113,11 @@
       "minecraft:forest": "2025-05-02 16:28:13 +0000",
       "minecraft:lush_caves": "2025-05-02 14:43:30 +0000",
       "minecraft:deep_cold_ocean": "2025-05-05 18:00:39 +0000",
+      "minecraft:frozen_ocean": "2025-05-07 21:10:33 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-07 21:10:02 +0000",
       "minecraft:ocean": "2025-05-02 16:56:43 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-03 13:20:27 +0000",
+      "minecraft:snowy_beach": "2025-05-07 21:25:37 +0000",
       "minecraft:flower_forest": "2025-05-02 18:20:12 +0000",
       "minecraft:frozen_peaks": "2025-05-06 00:27:21 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 16:19:31 +0000",
@@ -8597,6 +8606,114 @@
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2025-05-06 18:47:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-07 21:34:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-05-07 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-05-07 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-05-07 21:16:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-07 21:34:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-07 21:34:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:27 +0000"
     },
     "done": true
   },
