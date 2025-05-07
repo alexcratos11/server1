@@ -899,3 +899,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [07May2025 20:18:17.220] [Worker-Main-25/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=921, y=21, z=-1456}
 [07May2025 20:19:16.508] [Worker-Main-25/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=799, y=14, z=-1647}
 [07May2025 20:35:06.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Sneak 100]
+[07May2025 20:44:33.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:39543] logged in with entity id 12140 at (505.5911593859342, 94.0, -1298.699999988079)
+[07May2025 20:44:33.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[07May2025 20:44:33.137] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[07May2025 20:46:27.763] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=613, y=29, z=-1871}
+[07May2025 20:46:27.763] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=613, y=29, z=-1873}
+[07May2025 20:52:37.157] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
+[07May2025 20:52:37.158] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
+[07May2025 20:52:45.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 froze to death
+[07May2025 20:52:45.705] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
+[07May2025 20:52:56.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <6BlueBird9> como??
+[07May2025 20:53:03.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <6BlueBird9> ok ok xD
+[07May2025 20:53:04.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aaleexx17> por el frostbite
+[07May2025 20:53:07.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aaleexx17> tira tp
+[07May2025 20:53:09.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <6BlueBird9> acuerdate de esta
+[07May2025 20:54:43.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
+[07May2025 20:54:43.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[07May2025 20:54:54.059] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:54635] logged in with entity id 17504 at (519.6558527681228, 98.0, -1310.8703240557734)
+[07May2025 20:54:54.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[07May2025 20:54:54.159] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
