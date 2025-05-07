@@ -2171,3 +2171,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [07May2025 21:31:36.351] [Server thread/WARN] [tombstone/]: The death event of the player aaleexx17 was canceled by another mod
 [07May2025 21:31:36.376] [Server thread/INFO] [tombstone/]: The player aaleexx17 has successfully been saved
 [07May2025 21:31:52.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 was slain by Fire Dragon
+[07May2025 21:51:19.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elenitive[/127.60.88.4:60311] logged in with entity id 69336 at (504.8154165625921, 94.0, -1297.5989231370522)
+[07May2025 21:51:19.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive joined the game
+[07May2025 21:51:19.469] [Server thread/INFO] [Jade/]: Syncing config to Elenitive (2220527c-f40a-3f64-a9d3-9d22926aa118)
+[07May2025 21:54:28.755] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
