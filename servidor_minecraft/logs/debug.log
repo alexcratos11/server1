@@ -9567,3 +9567,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [07May2025 20:14:17.977] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
 [07May2025 20:14:17.977] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
 [07May2025 20:14:36.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Splintering II]
+[07May2025 20:15:11.404] [Server thread/INFO] [net.heyimamethyst.fairyfactions.FairyFactions/]: disband: : Speedy-button (lost its team)
+[07May2025 20:16:30.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 20:16:30.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 20:18:17.220] [Worker-Main-25/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=921, y=21, z=-1456}
+[07May2025 20:19:16.508] [Worker-Main-25/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=799, y=14, z=-1647}
+[07May2025 20:19:43.093] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (995 | 51 | -1735)
+[07May2025 20:19:43.101] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (995 | 51 | -1735)
+[07May2025 20:19:43.101] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (978 | 51 | -1741)
+[07May2025 20:19:43.104] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (978 | 51 | -1741)
+[07May2025 20:19:43.104] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (1000 | 51 | -1737)
+[07May2025 20:19:43.106] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (1000 | 51 | -1737)
+[07May2025 20:19:43.106] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (999 | 42 | -1743)
+[07May2025 20:19:43.107] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (999 | 42 | -1743)
+[07May2025 20:19:43.107] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (1006 | 42 | -1743)
+[07May2025 20:19:43.107] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (1006 | 42 | -1743)
+[07May2025 20:19:43.107] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (1001 | 42 | -1746)
+[07May2025 20:19:43.108] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (1001 | 42 | -1746)
+[07May2025 20:19:43.108] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (1000 | 42 | -1737)
+[07May2025 20:19:43.109] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (1000 | 42 | -1737)
+[07May2025 20:19:43.110] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (1005 | 33 | -1759)
+[07May2025 20:19:43.110] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (1005 | 33 | -1759)
+[07May2025 20:19:43.110] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (995 | 15 | -1745)
+[07May2025 20:19:43.110] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (995 | 15 | -1745)
+[07May2025 20:19:43.110] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (978 | 14 | -1750)
+[07May2025 20:19:43.111] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (978 | 14 | -1750)
+[07May2025 20:19:43.111] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (1000 | 15 | -1745)
+[07May2025 20:19:43.112] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (1000 | 15 | -1745)
+[07May2025 20:21:30.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 20:21:30.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 20:26:30.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 20:26:30.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 20:31:30.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 20:31:30.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 20:35:06.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Sneak 100]

@@ -895,3 +895,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [07May2025 20:10:44.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5303ms or 106 ticks behind
 [07May2025 20:10:52.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 6BlueBird9 moved too quickly! -0.3146789098636873,8.860383743687194,-5.298260863201904
 [07May2025 20:14:36.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Splintering II]
+[07May2025 20:15:11.404] [Server thread/INFO] [net.heyimamethyst.fairyfactions.FairyFactions/]: disband: : Speedy-button (lost its team)
+[07May2025 20:18:17.220] [Worker-Main-25/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=921, y=21, z=-1456}
+[07May2025 20:19:16.508] [Worker-Main-25/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=799, y=14, z=-1647}
+[07May2025 20:35:06.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Sneak 100]
