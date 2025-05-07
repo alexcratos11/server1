@@ -8616,33 +8616,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-07 21:34:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone_face": {
-    "criteria": {
-      "has_item": "2025-05-07 22:26:18 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2025-05-07 21:15:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_horn": {
-    "criteria": {
-      "bestiary": "2025-05-07 21:17:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2025-05-07 21:15:27 +0000"
     },
     "done": true
   },
@@ -8670,9 +8646,81 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-05-07 21:15:27 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
       "bestiary": "2025-05-07 21:16:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-05-07 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-07 21:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-07 21:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-07 21:34:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-05-07 22:26:18 +0000"
     },
     "done": true
   },
@@ -8694,33 +8742,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_shovel": {
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
-      "has_item": "2025-05-07 21:15:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-07 21:34:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_axe": {
-    "criteria": {
-      "has_item": "2025-05-07 21:15:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-07 21:34:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_pickaxe": {
-    "criteria": {
-      "has_item": "2025-05-07 21:15:14 +0000"
+      "has_item": "2025-05-07 22:26:18 +0000"
     },
     "done": true
   },
@@ -8730,33 +8754,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
-    "criteria": {
-      "has_item": "2025-05-07 22:26:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_sword": {
-    "criteria": {
-      "has_item": "2025-05-07 21:15:14 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dread_torch": {
     "criteria": {
       "has_item": "2025-05-07 22:32:21 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_horn": {
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
-      "has_item": "2025-05-07 21:15:14 +0000"
+      "has_item": "2025-05-07 23:03:41 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_stick": {
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
     "criteria": {
-      "has_item": "2025-05-07 21:15:27 +0000"
+      "has_item": "2025-05-07 23:03:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-05-07 23:03:41 +0000"
     },
     "done": true
   },
