@@ -8766,6 +8766,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-05-07 23:07:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/frost_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-05-07 23:03:41 +0000"

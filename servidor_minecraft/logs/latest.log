@@ -886,3 +886,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [07May2025 23:00:41.023] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
 [07May2025 23:02:43.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Dragon Growth Hormone]
 [07May2025 23:07:28.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [The Song of the Dragons]
+[07May2025 23:09:28.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[07May2025 23:13:03.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivii lost connection: Disconnected
+[07May2025 23:13:03.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii left the game
+[07May2025 23:14:21.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[07May2025 23:16:12.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set aaleexx17's game mode to Creative Mode]
+[07May2025 23:17:59.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[07May2025 23:19:02.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
