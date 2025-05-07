@@ -893,3 +893,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [07May2025 23:16:12.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set aaleexx17's game mode to Creative Mode]
 [07May2025 23:17:59.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
 [07May2025 23:19:02.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[07May2025 23:21:48.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Made aaleexx17 a server operator]
+[07May2025 23:21:59.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: Gamerule mobGriefing is now set to: false]
+[07May2025 23:23:58.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: Set own game mode to Survival Mode]
+[07May2025 23:25:01.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: Set own game mode to Creative Mode]
