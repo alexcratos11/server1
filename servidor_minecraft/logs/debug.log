@@ -11020,3 +11020,47 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [07May2025 23:59:04.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: Set own game mode to Creative Mode]
 [07May2025 23:59:30.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07May2025 23:59:30.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 00:04:30.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 00:04:30.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 00:07:02.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[08May2025 00:09:30.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 00:09:30.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 00:10:06.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set the time to 1000]
+[08May2025 00:13:26.185] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1207, y=-41, z=4438}
+[08May2025 00:13:31.371] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1291, y=-17, z=4453}
+[08May2025 00:13:31.371] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1291, y=-17, z=4452}
+[08May2025 00:13:40.836] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1151, y=-53, z=4453}
+[08May2025 00:13:55.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: Set own game mode to Survival Mode]
+[08May2025 00:14:02.092] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1113, y=-1, z=4431}
+[08May2025 00:14:26.407] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1082, y=-9, z=4247}
+[08May2025 00:14:26.407] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1082, y=-9, z=4249}
+[08May2025 00:14:30.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 00:14:30.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 00:15:25.844] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1028, y=2, z=4081}
+[08May2025 00:15:26.499] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-989, y=-26, z=4094}
+[08May2025 00:16:07.862] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-855, y=-35, z=4051}
+[08May2025 00:16:07.862] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-855, y=-35, z=4049}
+[08May2025 00:18:01.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -9.116113463361614,5.6120338938611525,1.4201574852086196
+[08May2025 00:18:01.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7789ms or 155 ticks behind
+[08May2025 00:18:05.926] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=248, y=-45, z=-5817}
+[08May2025 00:18:05.926] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=248, y=-45, z=-5819}
+[08May2025 00:18:36.794] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=503, y=-45, z=-6106}
+[08May2025 00:18:36.794] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=503, y=-45, z=-6104}
+[08May2025 00:18:45.161] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=452, y=-45, z=-6153}
+[08May2025 00:18:45.161] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=454, y=-45, z=-6153}
+[08May2025 00:18:54.731] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (132 | 46 | -6444).
+[08May2025 00:18:54.733] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[08May2025 00:18:54.734] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 5(0) Rooms
+[08May2025 00:18:54.734] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[08May2025 00:18:54.734] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 6(0) Rooms
+[08May2025 00:18:54.734] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[08May2025 00:18:54.735] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(0) Nodes and 6(0) Rooms
+[08May2025 00:18:54.735] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[08May2025 00:18:54.735] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 4(6) Nodes and 5(0) Rooms
+[08May2025 00:18:54.735] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[08May2025 00:18:54.735] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 9(1) Nodes and 6(0) Rooms
+[08May2025 00:19:01.976] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=162, y=-38, z=-6200}
+[08May2025 00:19:38.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 00:19:38.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 00:19:44.596] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=24, y=-12, z=-6160}
+[08May2025 00:19:52.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: Set own game mode to Creative Mode]
