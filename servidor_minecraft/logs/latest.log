@@ -23,3 +23,12 @@
 [08May2025 00:19:01.976] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=162, y=-38, z=-6200}
 [08May2025 00:19:44.596] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=24, y=-12, z=-6160}
 [08May2025 00:19:52.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: Set own game mode to Creative Mode]
+[08May2025 00:21:29.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: Set own game mode to Survival Mode]
+[08May2025 00:22:56.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: Set own game mode to Creative Mode]
+[08May2025 00:23:32.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [A Seedy Place]
+[08May2025 00:23:46.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: Set own game mode to Survival Mode]
+[08May2025 00:24:04.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[08May2025 00:24:36.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[08May2025 00:27:07.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: Set own game mode to Creative Mode]
+[08May2025 00:27:26.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive lost connection: Disconnected
+[08May2025 00:27:26.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive left the game
