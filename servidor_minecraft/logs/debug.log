@@ -12577,3 +12577,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [08May2025 00:27:26.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive left the game
 [08May2025 00:29:38.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08May2025 00:29:38.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 00:34:38.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 00:34:38.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 00:39:38.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 00:39:38.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 00:40:34.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: Set own game mode to Survival Mode]
+[08May2025 00:41:09.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
+[08May2025 00:41:09.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game

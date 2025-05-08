@@ -32,3 +32,6 @@
 [08May2025 00:27:07.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: Set own game mode to Creative Mode]
 [08May2025 00:27:26.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive lost connection: Disconnected
 [08May2025 00:27:26.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive left the game
+[08May2025 00:40:34.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: Set own game mode to Survival Mode]
+[08May2025 00:41:09.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
+[08May2025 00:41:09.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
